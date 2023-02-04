@@ -1,0 +1,1798 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors Extends\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-30 06:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1.1"
+
+#: inc/wpcfto_conf.php:370
+msgid "--- Default ---"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:37
+msgid "Add a Car Page"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:239
+msgid "Add Currency"
+msgstr ""
+
+#: inc/widgets/text-widget.php:81
+msgid "Add Socials Widget"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:412
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:137
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:141
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:144
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:150
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:157
+msgid "Address"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:402
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:135
+msgid "Address Icon"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:381
+msgid "Address Settings"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:392
+msgid "Address Show on Mobile"
+msgstr ""
+
+#: inc/widgets/contacts.php:92
+msgid "Address:"
+msgstr ""
+
+#: inc/wpcfto_conf.php:439
+msgid "Aircrafts"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:245
+msgid "Allow Dealer Add New Category"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:19
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: inc/widgets/address.php:58 inc/widgets/car_trade_offer_btns.php:34
+#: inc/widgets/dealer_info.php:34 inc/widgets/text-widget.php:76
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:9
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:195
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:227
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:122
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:17
+msgid "Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:120
+msgid "Background Image"
+msgstr ""
+
+#: inc/wpcfto_conf.php:389
+msgid "Behance"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:33
+msgid "Best Rated Minimum Average"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:23
+msgid "Best Seller Product Minimum Amount"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:141
+msgid "Bind WP Search form with Inventory"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:8
+msgid "Blog Archive Page Layout"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:26
+msgid "Blog Post Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf.php:435
+msgid "Boats"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:9
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:14
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:25
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:38
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:49
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:62
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:95
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:107
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:117
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:142
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:168
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:181
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:204
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:223
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:255
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:287
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:320
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:362
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:385
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:396
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:413
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:435
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:460
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:472
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:484
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:495
+msgid "Buttons/Actions"
+msgstr ""
+
+#: inc/wpcfto_conf.php:92
+msgid "by StylemixThemes"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:281
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:287
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:299
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:305
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:312
+msgid "Calculator"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/car_location.php:11
+msgid "Car Location"
+msgstr ""
+
+#: inc/helpers.php:373
+msgid "Car Rent Price Info"
+msgstr ""
+
+#: inc/helpers.php:376
+msgid "Car Rent Price Info (This fields are not editable.)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:396
+msgid "CarGuru Enter Height (in pixels)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:378
+msgid "CarGuru Minimum Rating to display"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:356
+msgid "CarGuru Style"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:42
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/widgets/car-contact-form.php:71
+msgid "CF7 shortcode:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:16
+msgid "Checkout Order Received Endpoint Page"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:29
+msgid "Choose Events Page View"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/shop_conf.php:9
+msgid "Choose Shop Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:53
+msgid "Choose Single Product Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf.php:433
+msgid "Classified"
+msgstr ""
+
+#: inc/wpcfto_conf.php:434
+msgid "Classified Five"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:97
+msgid "Comment"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:53
+msgid "Compare && Cart Buttons Hover Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:67
+msgid "Compare && Cart Buttons Hover Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:18
+msgid "Compare Icon"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:115
+msgid "Compare Page"
+msgstr ""
+
+#: inc/widgets/contacts.php:67 inc/widgets/schedule_showing.php:79
+msgid "Contact"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/sell_a_car.php:11
+msgid "Contact Us Page"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: inc/widgets/address.php:55 inc/widgets/text-widget.php:69
+msgid "Content:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:47
+msgid "Copyright"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:32
+msgid "Copyright Area Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:41
+msgid "Copyright Enable"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:6
+msgid "Currency"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:154
+msgid "Custom Background Image"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:50
+msgid "Custom Base Car Dealer Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:70
+msgid "Custom Base Listing Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:60
+msgid "Custom Secondary Car Dealer Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:87
+msgid "Custom Secondary Listing Color"
+msgstr ""
+
+#: inc/wpcfto_conf.php:494
+msgid "Date: newest first"
+msgstr ""
+
+#: inc/wpcfto_conf.php:495
+msgid "Date: oldest first"
+msgstr ""
+
+#: inc/wpcfto_conf.php:431
+msgid "Dealer"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:24
+msgid "Dealer List Page"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:92
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:109
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:122
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:134
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:147
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:183
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:195
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:241
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:263
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:431
+msgid "Dealer Options"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:96
+msgid "Dealer Sidebar Position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:187
+msgid "Dealer Slot Images Upload Limit:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:175
+msgid "Dealer Slots Limit:"
+msgstr ""
+
+#: inc/wpcfto_conf.php:432
+msgid "Dealer Two"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:82
+msgid "Default Dealer Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:291
+msgid "Default Down Payment Type"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:279
+msgid "Default Interest Rate"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:285
+msgid "Default Month Period"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:169
+msgid "Default Sort Option"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:29
+msgid "Default Title"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:51
+msgid "Default User Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf.php:396
+msgid "Delicious"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:23
+msgid "Disable Widget Area"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:147
+msgid "Display Additional Features on Inventory Filter"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:326
+msgid "Display Generated Car Title as:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:123
+msgid ""
+"Does not work when the Transparent Header option for the page is enabled"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:21
+msgid ""
+"Does not work when the Transparent Header option for the page is enabled."
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:303
+msgid "Down Payment Amount"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:309
+msgid "Down Payment Percent (%)"
+msgstr ""
+
+#: inc/wpcfto_conf.php:390
+msgid "Dribbble"
+msgstr ""
+
+#: inc/wpcfto_conf.php:397
+msgid "Dropbox"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:10
+msgid "Enable"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:113
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:234
+msgid "Enable Dealer Ads Moderation"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:364
+msgid "Enable Dealer Info on Listing"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:13
+msgid "Enable Email Confirmation"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:158
+msgid "Enable Favorite Button"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:23
+msgid "Enable Fixed Price for Quantity Days"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:112
+msgid "Enable Login/Register"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:256
+msgid "Enable Moderation For Dealer Review"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:316
+msgid "Enable Paid Featured Listing"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:267
+msgid "Enable Pay Per Listing"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:164
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:384
+msgid "Enable Pricing Plans (Woocommerce)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/sell_a_car.php:6
+msgid "Enable Sell a Car Online (Woocommerce)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:223
+msgid "Enable User Ads Moderation"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:351
+msgid ""
+"Enter slug of listing category, separated by comma, without spaces. Ex: make,"
+"condition"
+msgstr ""
+
+#: inc/wpcfto_conf.php:440
+msgid "Equipment"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:25
+msgid "Events archive"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:32
+msgid "Events page sidebar position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:47
+msgid "Events pagination type"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:53
+msgid "Events per page"
+msgstr ""
+
+#: inc/wpcfto_conf.php:385
+msgid "Facebook"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:327
+msgid "Featured Listing Label"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:365
+msgid "Featured Listing Period (days)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:346
+msgid "Featured Listing Price"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:265
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:293
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:311
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:322
+msgid "Filter by location"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:182
+msgid "Filter Position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:44
+msgid "Find interesting trade shows & conferences to attend"
+msgstr ""
+
+#: inc/wpcfto_conf.php:391
+msgid "Flickr"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:166
+msgid "Full Width Search Results"
+msgstr ""
+
+#: inc/wpcfto_conf.php:392
+msgid "Git"
+msgstr ""
+
+#: inc/wpcfto_conf.php:400
+msgid "Google"
+msgstr ""
+
+#: inc/wpcfto_conf.php:401
+msgid "Google +"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:423
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:148
+msgid "Google Map Address URL"
+msgstr ""
+
+#: inc/widgets/address.php:52
+msgid "Google map link:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:9
+msgid "Google Maps API Key"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:12
+msgid "Grid"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:334
+msgid "Grid Item Title Max Length"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:110
+msgid "Grid version. Ex: 9,12,18,27"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:330
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:341
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:360
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:378
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:396
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:414
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:425
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:443
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:461
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:479
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:490
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:508
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:526
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:544
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:562
+msgid "Grid/List Card"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:58
+msgid "H1 Font"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:68
+msgid "H2 Font"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:78
+msgid "H3 Font"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:88
+msgid "H4 Font"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:98
+msgid "H5 Font"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:108
+msgid "H6 Font"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:19
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:464
+#: inc/wpcfto_conf/layout_conf/service_layout_conf.php:9
+msgid "Header Button label"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:476
+#: inc/wpcfto_conf/layout_conf/service_layout_conf.php:15
+msgid "Header Button Link"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:7
+msgid "Header Layout"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:6
+msgid "Header Socials"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:116
+msgid "Header Socials Icon Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:75
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/typography_conf.php:24
+msgid "Headings Font Settings"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:18
+msgid "Hide Price Labels on Listing Archive"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:259
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:325
+msgid "Hover Text Color"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: inc/helpers.php:92
+msgid "I agree with storaging of my data by this website."
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:366
+msgid "Icon"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:72
+msgid "Icon Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:18
+msgid "Icon For Best Selling Products"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:39
+msgid "Icon For Sale Product"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:29
+msgid "Icon For Top Rated Products"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:199
+msgid "Image Size Limit (Kb)"
+msgstr ""
+
+#: inc/wpcfto_conf.php:388
+msgid "Instagram"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:58
+msgid "Inventory Archive Page"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:41
+msgid "Inventory Layout Mode"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:609
+msgid "Inventory settings"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:66
+msgid "Inventory Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:141
+msgid "Item Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:158
+msgid "Item Hover Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:193
+msgid "Item Hover Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:265
+msgid "Item Hover Text Decoration Underline Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:281
+msgid "Item Hover Text Decoration Underline Color 2"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:97
+msgid "Item Padding"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:234
+msgid "Item Text Decoration Underline Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:249
+msgid "Item Text Decoration Underline Color 2"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:102
+msgid "Items Per Page Choices."
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:185
+msgid "Label"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:120
+msgid "Language Switcher"
+msgstr ""
+
+#: inc/wpcfto_conf.php:484
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:64
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:6
+msgid "Left"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:208
+msgid "Link"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:85
+msgid "Link Color"
+msgstr ""
+
+#: inc/wpcfto_conf.php:393
+msgid "Linkedin"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:11
+msgid "List"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:90
+msgid "List Version Sort Parameter (Type Slug)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:6
+msgid "Listing Archive \"Title Box\" Title"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:434
+msgid "Listing Layout Header Image for Non-transparent Option"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:566
+msgid "Listing Sidebar Filter Background"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:124
+msgid "Listing View Type"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:17
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:6
+msgid "Load More Button"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:6
+msgid "Login/Registration Page"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:6
+msgid "Logo"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:13
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:20
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:39
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:47
+msgid "Logo & Title"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:24
+msgid "Logo Margin"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:17
+msgid "Logo Width (px)"
+msgstr ""
+
+#: inc/wpcfto_conf.php:438
+msgid "Magazine"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:8
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:19
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:30
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:41
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:52
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:68
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:79
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:85
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:96
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:107
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:118
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:129
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:135
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:151
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:162
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:181
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:211
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:242
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:253
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:264
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:275
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:318
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:329
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:340
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:352
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:374
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:392
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:404
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:15
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:40
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:71
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:93
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:112
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:127
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:145
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:229
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:239
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:249
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:261
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:279
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:298
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:308
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:320
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:331
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:342
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:354
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:365
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:377
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:388
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:398
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:408
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:419
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:430
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:440
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:75
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:14
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:25
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:37
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:54
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:62
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:75
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:86
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:98
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:111
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:120
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:137
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:143
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:154
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:165
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:178
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:198
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:580
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:589
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:598
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:13
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:30
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:68
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:81
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:108
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:116
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:124
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:131
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:10
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:20
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:33
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:47
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:207
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:219
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:252
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:391
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:403
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:409
+msgid "Main"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:6
+msgid "Main Menu Font Settings"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:283
+msgid "Main Phone"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:243
+msgid "Main Phone Icon"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:265
+msgid "Main Phone Label"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:253
+msgid "Main Phone Label Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:233
+msgid "Main Phone Show on Mobile"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:79
+msgid "Margin"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:32
+msgid "Membership Price"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:21
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:44
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:93
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:118
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:137
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:154
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:189
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:229
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:245
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:261
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:277
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:293
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:204
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:214
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:227
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:240
+msgid "Menu"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:201
+msgid "Menu Enabled"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:208
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:231
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:218
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:61
+msgid "Menu&amp;Icons Area Margin"
+msgstr ""
+
+#: inc/wpcfto_conf.php:499
+msgid "Mileage: highest first"
+msgstr ""
+
+#: inc/wpcfto_conf.php:498
+msgid "Mileage: lowest first"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:187
+msgid "Minimum width: 1025px."
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:217
+msgid "Minimum width: 768px."
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:44
+msgid "Mobile Header Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:131
+msgid "Mobile Header Socials Icon Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:97
+msgid "Mobile Header Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf.php:436
+msgid "Motorcycle"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:235
+msgid "Multiple Currencies"
+msgstr ""
+
+#: inc/helpers.php:457
+msgid "New Payment received"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:101
+msgid "No comments"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:5
+msgid "None"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:185
+msgid "Number of Items on Desktop"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:215
+msgid "Number of Items on Tablet"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:131 inc/widgets/recomended_for_you.php:127
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:160
+msgid "Padding"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:16
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:5
+msgid "Pagination"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:323
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:342
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:361
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:380
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:453
+msgid "Paid Featured Listing"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:10
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:16
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:28
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:35
+msgid "Pay Pal Settings"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:274
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:293
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:312
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:442
+msgid "Pay Per Listing"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:297
+msgid "Pay Per Listing Period (days)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:278
+msgid "Pay Per Listing Price"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:14
+msgid "Paypal Email"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_paypal_options_conf.php:20
+msgid "Paypal Mode"
+msgstr ""
+
+#: inc/widgets/schedule_showing.php:108
+msgid "Phone Label:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:183
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:187
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:190
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:197
+msgid "Phone Number"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:181
+msgid "Phone Number Icon"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:222
+msgid "Phone Settings"
+msgstr ""
+
+#: inc/widgets/contacts.php:96 inc/widgets/schedule_showing.php:104
+msgid "Phone:"
+msgstr ""
+
+#: inc/wpcfto_conf.php:394
+msgid "Pinterest"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:28
+msgid "Popup Discount Program Description"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:205
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:212
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:224
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:231
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:259
+msgid "Price"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:209
+msgid "Price Currency"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:202
+msgid "Price Currency Name"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:216
+msgid "Price Currency Position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:228
+msgid "Price Delimeter"
+msgstr ""
+
+#: inc/wpcfto_conf.php:497
+msgid "Price: highest first"
+msgstr ""
+
+#: inc/wpcfto_conf.php:496
+msgid "Price: lower first"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:395
+msgid "Pricing Link"
+msgstr ""
+
+#: inc/wpcfto_conf.php:354
+msgid "Primary sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:121
+msgid "Profile Button Hover Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:146
+msgid "Profile Button Hover Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:111
+msgid "Profile Icon"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:22
+msgid "Public key"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:113
+msgid "Rate 1 Label:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:126
+msgid "Rate 2 Label:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:138
+msgid "Rate 3 Label:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:15
+msgid "reCaptcha (v3)"
+msgstr ""
+
+#: inc/wpcfto_conf.php:398
+msgid "Reddit"
+msgstr ""
+
+#: inc/wpcfto_conf.php:437
+msgid "Rental"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:338
+msgid "Request a Quote Link"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/rental_layout_conf.php:9
+msgid "Reservation Date Page"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:14
+msgid "Review pagination type"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_review.php:20
+msgid "Review per page"
+msgstr ""
+
+#: inc/wpcfto_conf.php:485
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:65
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:7
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/contacts.php:100
+msgid "Sales Hours:"
+msgstr ""
+
+#: inc/widgets/schedule_showing.php:54
+msgid "Schedule a Showing"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/schedule_showing.php:11
+msgid "Schedule Showing"
+msgstr ""
+
+#: inc/widgets/schedule_showing.php:12
+msgid "Schedule showing"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:417
+msgid "Search Button Hover Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:439
+msgid "Search Button Hover Icon Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:400
+msgid "Search Button Icon"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:335
+msgid "Secondary Phone 1"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:324
+msgid "Secondary Phone 1 Label"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:312
+msgid "Secondary Phone 1 Label Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:369
+msgid "Secondary Phone 2"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:358
+msgid "Secondary Phone 2 Label"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:346
+msgid "Secondary Phone 2 Label Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:302
+msgid "Secondary Phones Show on Mobile"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/general_conf.php:31
+msgid "Secret key"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:211
+msgid "Send Email to Dealer/Private Seller"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:297
+msgid "Set Max Search Radius"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:413
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:424
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:435
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:446
+msgid "Settings Available on Classified 1,2,3,4 Layouts"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:488
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:17
+msgid "Settings Not Available For This Header Type"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:315
+msgid "Settings Not Available For This Layout"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:444
+msgid "Settings Not Available on This Layout"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/shop_conf.php:16
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:494
+msgid "Show \"Calculate Payment\" Popup"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:465
+msgid "Show \"Quote by Phone\""
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:483
+msgid "Show \"Trade Value\" Popup"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:512
+msgid "Show \"VIN\" Link"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:173
+msgid "Show Add a Car Button"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:154
+msgid "Show Address on Mobile"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:28
+msgid "Show Calculator"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:29
+msgid "Show Cart"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:111
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:530
+msgid "Show Certified Logo 1"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:122
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:548
+msgid "Show Certified Logo 2"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:83
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:6
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:418
+msgid "Show Compare"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:128
+msgid "Show Currency Switcher"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:44
+msgid "Show Excerpt (for Grid View)"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:133
+msgid "Show Featured Button"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:257
+msgid "Show History"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:263
+msgid "Show Location/Include Location in Filter"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:268
+msgid "Show Number"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:17
+msgid "Show Offer Price Button"
+msgstr ""
+
+#: inc/widgets/address.php:24
+msgid "Show on map"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:100
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:447
+msgid "Show PDF brochure"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:194
+msgid "Show Phone on Mobile"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:50
+msgid "Show Print Button"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:99
+msgid "Show Profile"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:39
+msgid "Show Published Date"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:316
+msgid "Show Quote By Phone"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:246
+msgid "Show Registered Date"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:389
+msgid "Show Search Button"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:155
+msgid "Show Search Results"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:89
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:429
+msgid "Show Share Block"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:349
+msgid "Show Similar Cars by Parameter"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:72
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:382
+msgid "Show Stock"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:61
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:400
+msgid "Show Test Drive Schedule"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:6
+msgid "Show Trade In Button"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:345
+msgid "Show Two First Parameters as a Badge"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:144
+msgid "Show VIN"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:174
+msgid "Show Working Hours on Mobile"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/blog_conf.php:33
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/car_settings_conf.php:327
+msgid "Single Car Page Background"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:60
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:43
+msgid "Single Product Template"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:105
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:407
+msgid "Site Demo Mode"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:170
+msgid "Site smooth scroll"
+msgstr ""
+
+#: inc/wpcfto_conf.php:402
+msgid "Skype"
+msgstr ""
+
+#: inc/widgets/socials.php:70
+msgid "Social Network"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/socials.php:11
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:57
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:13
+#: inc/wpcfto_conf/layout_conf/header_sm_socials.php:23
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:244
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:247
+msgid "Socials"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/socials_conf.php:9
+msgid "Socials Links"
+msgstr ""
+
+#: inc/widgets/socials.php:12
+msgid ""
+"Socials widget(customize order from theme options -> Social Media section -> "
+"Social Widget subsection )"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:594
+msgid "Sold Badge Background Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:585
+msgid "Sold Listings"
+msgstr ""
+
+#: inc/wpcfto_conf.php:399
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:149
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:156
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:191
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:218
+#: inc/wpcfto_conf/layout_conf/header_layout_conf.php:451
+msgid "Sticky"
+msgstr ""
+
+#: inc/widgets/address.php:7
+msgid "STM Address"
+msgstr ""
+
+#: inc/widgets/address.php:5
+msgid "STM Address widget"
+msgstr ""
+
+#: inc/widgets/text-widget.php:8
+msgid "STM Arbitrary text or HTML."
+msgstr ""
+
+#: inc/widgets/car_calculator.php:5 inc/widgets/car_calculator.php:7
+msgid "STM Auto loan Calculator"
+msgstr ""
+
+#: inc/widgets/car_trade_offer_btns.php:5
+#: inc/widgets/car_trade_offer_btns.php:7
+msgid "STM Car Trade and Offer Btns"
+msgstr ""
+
+#: inc/widgets/classified-four-car-data.php:10
+msgid "STM Classified Four Car Data"
+msgstr ""
+
+#: inc/widgets/classified-four-car-data.php:8
+msgid "STM Classified Four Car Data widget"
+msgstr ""
+
+#: inc/widgets/classified-four-price-view.php:7
+msgid "STM Classified Four Price View"
+msgstr ""
+
+#: inc/widgets/classified-four-price-view.php:5
+msgid "STM Classified Four Price widget"
+msgstr ""
+
+#: inc/widgets/dealer_info.php:5 inc/widgets/dealer_info.php:7
+msgid "STM Dealer Info"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:9
+msgid "STM Last Post"
+msgstr ""
+
+#: inc/widgets/car-contact-form.php:5 inc/widgets/car-contact-form.php:7
+msgid "STM Listing Car Form"
+msgstr ""
+
+#. Name of the plugin
+msgid "STM Motors Extends"
+msgstr ""
+
+#. Description of the plugin
+msgid "STM Motors Extends WordPress Plugin"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:40
+msgid "STM Recent Posts"
+msgstr ""
+
+#: inc/widgets/recomended_for_you.php:10
+msgid "STM Recomended For You"
+msgstr ""
+
+#: inc/widgets/recomended_for_you.php:41
+msgid "STM Recomended Posts"
+msgstr ""
+
+#: inc/widgets/similar_cars.php:5 inc/widgets/similar_cars.php:7
+msgid "STM Similar Cars"
+msgstr ""
+
+#: inc/widgets/text-widget.php:11
+msgid "STM Text"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_menu.php:26
+msgid "SubMenu Font Family"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:42
+msgid "Subtitle"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:46
+msgid "Template With Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/auto_parts_layout_conf.php:47
+msgid "Template Without Sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:291
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:34
+msgid "Text Color"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:43
+msgid "Text Logo Font Family"
+msgstr ""
+
+#: inc/widgets/schedule_showing.php:100
+msgid "Text:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_logo.php:18
+msgid "The height of the image will increase proportionately"
+msgstr ""
+
+#: inc/wpcfto_conf.php:37 inc/wpcfto_conf.php:40
+msgid "Theme Options"
+msgstr ""
+
+#: inc/wpcfto_conf.php:91
+msgid "Theme options"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/site_style_conf.php:42
+msgid "Theme Skin"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/stm_motors_events.php:38
+msgid "Title background"
+msgstr ""
+
+#: inc/widgets/address.php:49 inc/widgets/car-contact-form.php:68
+#: inc/widgets/car_calculator.php:43 inc/widgets/car_location.php:64
+#: inc/widgets/car_trade_offer_btns.php:31 inc/widgets/contacts.php:88
+#: inc/widgets/dealer_info.php:31 inc/widgets/latest-posts.php:127
+#: inc/widgets/recomended_for_you.php:123 inc/widgets/schedule_showing.php:96
+#: inc/widgets/similar_cars.php:32 inc/widgets/socials.php:75
+#: inc/widgets/text-widget.php:63
+msgid "Title:"
+msgstr ""
+
+#: inc/wpcfto_conf.php:405
+msgid "Tumblr"
+msgstr ""
+
+#: inc/wpcfto_conf.php:386
+msgid "Twitter"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:274
+msgid "Unit Measurement"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/inventory_conf.php:79
+msgid "Use Boats Filter Style"
+msgstr ""
+
+#: inc/widgets/car_location.php:12
+msgid ""
+"Use this widget on single listing page to display Google Map with car "
+"location."
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:61
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:78
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:159
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:171
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:230
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:420
+msgid "User Options"
+msgstr ""
+
+#: inc/helpers.php:458
+msgid "User paid for submission. User ID:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:65
+msgid "User Sidebar Position"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:163
+msgid "User Slot Images Upload Limit:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:151
+msgid "User Slots Limit:"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/user_dealer_conf.php:458
+msgid "User/Dealer"
+msgstr ""
+
+#: inc/wpcfto_conf.php:387
+msgid "VK"
+msgstr ""
+
+#: inc/wpcfto_conf.php:406
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/footer_layout_conf.php:18
+msgid "Widget Areas"
+msgstr ""
+
+#: inc/wpcfto_conf.php:353
+msgid "Without sidebar"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/header_sm_buttons.php:31
+msgid "Woocommerce needed"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:163
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:167
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:170
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:177
+msgid "Working Hours"
+msgstr ""
+
+#: inc/wpcfto_conf/layout_conf/top_bar_conf.php:161
+msgid "Working Hours Icon"
+msgstr ""
+
+#: inc/wpcfto_conf.php:395
+msgid "Yahoo"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:7
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/widgets/recomended_for_you.php:8
+msgid "Your site&#8217;s most recomended Posts."
+msgstr ""
+
+#: inc/wpcfto_conf.php:403
+msgid "Youtube"
+msgstr ""
+
+#: inc/wpcfto_conf.php:404
+msgid "Youtube Play"
+msgstr ""

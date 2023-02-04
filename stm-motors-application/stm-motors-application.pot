@@ -1,0 +1,108 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors Application\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-03 21:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-6.1.1\n"
+"X-Domain: stm-motors-application"
+
+#: inc/helpers.php:1131
+msgid "Car Added, uploading photos"
+msgstr ""
+
+#: inc/rest_api.php:446
+msgid "Car deleted"
+msgstr ""
+
+#: inc/helpers.php:1128
+msgid "Car Updated, uploading photos"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://stylemixthemes.com/plugins/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Motors Application"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Motors Application - Car Dealership & Classified Listings Mobile App for "
+"Android & iOS Integration"
+msgstr ""
+
+#: inc/helpers.php:815
+msgid "N/A"
+msgstr ""
+
+#: inc/rest_api.php:813 inc/rest_api.php:1263
+msgid "No Price"
+msgstr ""
+
+#: inc/helpers.php:1327
+msgid "Photo uploaded, redirecting to your account profile"
+msgstr ""
+
+#: inc/helpers.php:971
+msgid "Please add car price"
+msgstr ""
+
+#: inc/rest_api.php:405 inc/rest_api.php:1199
+msgid "Please fill required fields"
+msgstr ""
+
+#: inc/helpers.php:828
+msgid "Please, log in"
+msgstr ""
+
+#: inc/helpers.php:839 inc/helpers.php:852 inc/rest_api.php:431
+msgid "Site is on demo mode"
+msgstr ""
+
+#: inc/helpers.php:1206
+msgid "Some error occurred, try again later"
+msgstr ""
+
+#: inc/rest_api.php:449
+msgid "Something went wrong"
+msgstr ""
+
+#: inc/helpers.php:1232
+#, php-format
+msgid "Sorry, you can upload only %d images per add"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: inc/rest_api.php:1196
+msgid "Token Expired"
+msgstr ""
+
+#: inc/rest_api.php:436
+msgid "Token expired"
+msgstr ""
+
+#: inc/helpers.php:1201
+msgid "Upload Image Filed"
+msgstr ""
+
+#: inc/helpers.php:901
+msgid "You do not have available posts"
+msgstr ""

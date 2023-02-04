@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-03 10:02+0500\n"
+"PO-Revision-Date: 2016-03-03 10:03+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__e;esc_html__e;esc_html__;esc_attr__\n"
+"X-Poedit-Basepath: /Users/apple/Desktop/\n"
+"X-Poedit-SearchPath-0: stm-post-type\n"
+
+#: stm-post-type/post_type.class.php:28
+msgid "Add New"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:29 stm-post-type/post_type.class.php:556
+msgid "Add New "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:30 stm-post-type/post_type.class.php:554
+msgid "Edit "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:31 stm-post-type/post_type.class.php:557
+msgid "New "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:32 stm-post-type/post_type.class.php:551
+msgid "All "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:33
+msgid "View "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:34 stm-post-type/post_type.class.php:550
+msgid "Search "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:35 stm-post-type/post_type.class.php:36
+msgid "No "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:70 stm-post-type/stm-post-type.php:325
+msgid "Options"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:132 stm-post-type/post_type.class.php:163
+msgid "No file chosen"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:140
+msgid "Choose PDF"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:141
+msgid "Remove PDF"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:148
+msgid "Select file"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:151 stm-post-type/post_type.class.php:456
+msgid "Attach"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:259
+msgid "Add"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:446
+msgid "Choose Image"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:447
+msgid "Remove Image"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:454
+msgid "Select image"
+msgstr ""
+
+#: stm-post-type/post_type.class.php:552 stm-post-type/post_type.class.php:553
+msgid "Parent "
+msgstr ""
+
+#: stm-post-type/post_type.class.php:555
+msgid "Update "
+msgstr ""
+
+#: stm-post-type/rewrite.php:7
+msgid "STM Post Types"
+msgstr ""
+
+#: stm-post-type/rewrite.php:22 stm-post-type/rewrite.php:23
+#: stm-post-type/stm-post-type.php:22 stm-post-type/stm-post-type.php:23
+msgid "Listings"
+msgstr ""
+
+#: stm-post-type/rewrite.php:34
+msgid "Custom Post Type Renaming Settings"
+msgstr ""
+
+#: stm-post-type/rewrite.php:42 stm-post-type/rewrite.php:50
+#: stm-post-type/rewrite.php:58
+msgid "\""
+msgstr ""
+
+#: stm-post-type/rewrite.php:68
+msgid ""
+"NOTE: After you change the rewrite field values, you'll need to refresh "
+"permalinks under Settings -> Permalinks"
+msgstr ""
+
+#: stm-post-type/rewrite.php:71
+msgid "Save settings"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:37
+msgid "Sidebar"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:71
+msgid "Test Drive Requests"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:73
+msgid "Test drives"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:80
+msgid "Page Options"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:83
+msgid "Page Background Color"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:87
+msgid "Transparent Header"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:91
+msgid "Title Box"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:95
+msgid "Alignment"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:98
+msgid "Left"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:99
+msgid "Center"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:100
+msgid "Right"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:104
+msgid "Title"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:107 stm-post-type/stm-post-type.php:143
+msgid "Show"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:108 stm-post-type/stm-post-type.php:144
+msgid "Hide"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:112
+msgid "Sub Title"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:116
+msgid "Background Color"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:120
+msgid "Font Color"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:124
+msgid "Line Color"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:128
+msgid "Sub Title Font Color"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:132
+msgid "Custom Background Image"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:136 stm-post-type/stm-post-type.php:140
+msgid "Breadcrumbs"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:148
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:154
+msgid "Credentials"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:157
+msgid "Name"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:161
+msgid "E-mail"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:165
+msgid "Phone"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:169
+msgid "Day"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:175
+msgid "Special offer settings"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:178
+msgid "Special offer"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:182
+msgid "Special offer text"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:186
+msgid "Special Offer Banner"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:190
+msgid "Badge style on inner pages"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:194
+msgid "Badge Text (default - SPECIAL)"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:198
+msgid "Badge Background Color"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:214
+msgid "Single car page options"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:217
+msgid "Car ID"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:221
+msgid "Main Options"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:225
+msgid "Stock number"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:229
+msgid "VIN number"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:233
+msgid "Brochure (.pdf)"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:237
+msgid "MPG"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:241
+msgid "City MPG"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:245
+msgid "Highway MPG"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:249
+msgid "Price Options"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:253
+msgid "Regular price label (default - Buy For)"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:255
+msgid "Buy For"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:258
+msgid "Regular price description (default - Included Taxes & Checkup)"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:260
+msgid "Included Taxes & Checkup"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:263
+msgid "Special price label (default - MSRP)"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:265
+msgid "MSRP"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:268
+msgid "Instant savings label (default - Instant Savings:)"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:270
+msgid "Instant Savings:"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:273
+msgid "Enable \"Get Car Price\" Form"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:277
+msgid "Custom label instead of price"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:279
+msgid "This text will appear instead of price"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:282
+msgid "Gallery Options"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:286
+msgid "Gallery"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:290
+msgid "Video Options"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:294
+msgid "Video Preview"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:298
+msgid "Gallery Video <br/> (URL Embed video)"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:302
+msgid "Compare Options"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:306
+msgid "Additional features"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:308
+msgid ""
+"Separate features with commas, ex: Auxiliary heating,Bluetooth,CD player,"
+"Central locking"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:311
+msgid "Car certified logos"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:315
+msgid "Certified Logo 1"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:319
+msgid "Certified Logo 2"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:328
+msgid "Icon"
+msgstr ""
+
+#: stm-post-type/stm-post-type.php:332
+msgid "Icon Background Color"
+msgstr ""

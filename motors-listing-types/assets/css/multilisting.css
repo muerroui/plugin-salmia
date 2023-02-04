@@ -1,0 +1,223 @@
+.listing_categories_add_new form .stm_vehicles_listing_option_meta .stm_vehicles_listing_row_actions {
+    display: flex;
+}
+
+.multilisting-buttons-wrap {
+	margin-top: 45px;
+	margin-bottom: 50px!important;
+}
+
+.listing-type-list .card .card-body .card-icon i {
+	display: block;
+	font-size: 28px;
+	color: #818181;
+	height: 30px;
+	transition: all .2s ease-in-out;
+}
+
+.listing-type-list .card .card-body .btn i.fas {
+	font-weight: 900;
+	font-size: 24px;
+}
+
+.listing-type-list .card .card-body:hover i {
+	color: #fff!important;
+}
+
+.multilisting_compare_type_buttons {
+	margin-top: 34px;
+	text-align: right;
+}
+
+.multilisting_compare_type_buttons .btn {
+	margin-left: 10px;
+}
+
+.multilisting-search-tabs-wrap .tab-content {
+	padding: 40px 0px 50px;
+}
+
+.multilisting-search-tabs-wrap .tab-content button[type="submit"] {
+	width: 100%;
+	text-align: center;
+}
+
+/* classic carousel */
+.wrap_multilisting_carousel {
+	margin-bottom: 50px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.wrap_multilisting_carousel_inner {
+	visibility: hidden;
+	display: none;
+}
+
+.wrap_multilisting_carousel_inner .price .regular-price, .multilisting-tab-content .price .regular-price {
+	color: #fff;
+}
+
+.wrap_multilisting_carousel_inner .stm-car-medias {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	z-index: 20;
+}
+
+.wrap_multilisting_carousel_inner .stm-car-medias > div {
+	display: inline-block;
+	margin-right: 9px;
+	padding: 2px 5px 0 6px;
+	border-radius: 2px;
+	background: rgba(0, 0, 0, 0.3);
+	color: #fff;
+	font-size: 11px;
+	line-height: 22px;
+	font-weight: 600;
+}
+
+.wrap_multilisting_carousel_inner .stm-car-medias > div i {
+	font-size: 12px;
+	margin-right: 2px;
+}
+
+.wrap_multilisting_carousel_inner .stm-car-medias > div span {
+	position: relative;
+	top: -1px;
+}
+
+.wrap_multilisting_carousel_inner .stm-car-medias > div:hover {
+	cursor: pointer;
+	background: rgba(0, 0, 0, 0.6);
+}
+
+.wrap_multilisting_carousel_inner .stm-car-medias > div span.stm-listing-videos-unit i {
+	position: relative;
+	top: -1px;
+	left: 1px;
+	margin-right: 3px;
+}
+
+.wrap_multilisting_carousel_inner .stm-listing-compare {
+	position: absolute;
+	right: 7px;
+	bottom: 7px;
+	padding: 3px 5px;
+	background: rgba(0, 0, 0, 0.3);
+	color: #fff;
+	font-size: 14px;
+	border-radius: 2px;
+	opacity: 0;
+	z-index: 20;
+}
+
+.wrap_multilisting_carousel_inner .stm-listing-compare:hover {
+	background: rgba(0, 0, 0, 0.6);
+	cursor: pointer;
+}
+
+.wrap_multilisting_carousel_inner .stm-listing-favorite {
+	position: absolute;
+	left: 7px;
+	bottom: 7px;
+	padding: 3px 5px 3px 6px;
+	background: rgba(0, 0, 0, 0.3);
+	color: #fff;
+	border-radius: 2px;
+	font-size: 16px;
+	opacity: 0;
+	z-index: 20;
+}
+
+
+.wrap_multilisting_carousel_inner .stm-listing-favorite:hover {
+	background: rgba(0, 0, 0, 0.6);
+	cursor: pointer;
+}
+
+
+.wrap_multilisting_carousel .stm-listing-compare {
+	position: absolute;
+	right: 7px;
+	bottom: 7px;
+	padding: 3px 5px;
+	background: rgba(0, 0, 0, 0.3);
+	color: #fff;
+	font-size: 14px;
+	border-radius: 2px;
+	opacity: 0;
+	z-index: 20;
+}
+
+.wrap_multilisting_carousel_inner .owl-controls {
+	margin-top: 0!important;
+}
+
+.wrap_multilisting_carousel_inner .stm-listing-compare, .wrap_multilisting_carousel_inner .stm-listing-favorite {
+	display: none!important;
+}
+
+.multilisting-masonry-carousel-wrap {
+	border-top: none!important;
+}
+
+.multilisting-select .select-type .stm-label-type {
+	display: inline-block!important;
+    margin-right: 15px!important;
+    color: #888!important;
+}
+
+.multilisting-select .select-type .select2 {
+	display: inline-block!important;
+    text-align: left!important;
+    width: auto !important;
+    min-width: 130px!important;
+}
+
+.multilisting-select .select2-selection {
+	height: 32px!important;
+	background-color: transparent !important;
+    border: 1px solid #dfe1e5!important;
+}
+
+.multilisting-select .select2-selection__arrow, .multilisting-select .select2-selection__rendered {
+	height: 32px!important;
+	line-height: 32px!important;
+}
+
+
+.multilisting-select {
+	display: inline-block!important;
+}
+
+.stm-user-private-main .stm-directory-listing-top__right {
+	text-align: right!important;
+}
+
+.stm-user-public-listing .stm-seller-title {
+	display: inline-block!important;
+}
+
+.stm-user-public-listing .multilisting-select {
+	float: right!important;
+}
+
+.stm-user-public-listing .archive-listing-page {
+	margin-top: 20px!important;
+}
+
+.stm-template-listing_six .sidebar-entry-header .h4 {
+	font-size: 18px;
+}
+
+.ml_collapse_title {
+	cursor: pointer;
+}
+
+.wpcfto-box-repeater.multilisting_repeater .wpcfto-field-content > .separator {
+	display: none!important;
+}
+
+.wpcfto-box.multilisting_current_motors_layout {
+	display: none!important;
+}

@@ -1,0 +1,2060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors – Car Dealer, Classifieds & Listing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-19 05:17+0000\n"
+"PO-Revision-Date: 2022-01-08 00:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3"
+
+#: includes/functions.php:261
+msgid " and "
+msgstr " et "
+
+#: includes/admin/categories.php:332 includes/admin/categories.php:333
+#: includes/admin/categories.php:334 templates/single-car/car-price.php:55
+#: templates/single-car/car-price.php:72 templates/single-car/car-price.php:87
+#: templates/single-car/car-price.php:101
+#: templates/single-car/car-price.php:117
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/admin/butterbean_helpers.php:158
+#, php-format
+msgid "%s added!"
+msgstr "%s ajoutée!"
+
+#: includes/admin/butterbean_helpers.php:147
+#, php-format
+msgid "%s already added!"
+msgstr "%s déjà ajouté!"
+
+#: templates/loop/list/features.php:157 templates/loop/list/price_rating.php:46
+#, php-format
+msgid "%s out of 5.0"
+msgstr "%s de 5.0"
+
+#: includes/customizer/controls/post-type.php:18
+msgid "--- Default ---"
+msgstr "--- Par défaut ---"
+
+#: includes/admin/categories.php:80
+msgid "10"
+msgstr "10"
+
+#: includes/customizer/registration.php:141
+msgid "3"
+msgstr "3"
+
+#: includes/customizer/registration.php:146
+msgid "5"
+msgstr "5"
+
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:57
+#: includes/admin/butterbean/inc/controls/class-control-repeater.php:56
+msgid "Add"
+msgstr "Ajouter"
+
+#: includes/customizer/registration.php:132
+msgid "Add a Listing page"
+msgstr "Ajouter une page de la Liste des"
+
+#: includes/admin/categories.php:85
+msgid "Add delimiter"
+msgstr "Ajouter un séparateur"
+
+#: includes/admin/categories.php:502
+msgid "Add icon"
+msgstr "Icône ajouter"
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:66
+#: includes/admin/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr "Ajouter une image"
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:67
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:69
+msgid "Add images"
+msgstr "Ajouter des images"
+
+#: includes/functions.php:580
+msgid "Add New"
+msgstr "Ajouter De Nouveaux"
+
+#: includes/admin/categories.php:377
+#: includes/admin/butterbean/inc/controls/class-control-multiselect.php:50
+msgid "Add new"
+msgstr "Ajouter de nouveaux"
+
+#: includes/options.php:78
+msgid "Add New Additional features"
+msgstr "Ajouter de Nouvelles fonctionnalités Supplémentaires"
+
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:56
+msgid "Add new feature"
+msgstr "Ajouter de nouvelles fonctionnalité"
+
+#: includes/functions.php:581
+msgid "Add New Item"
+msgstr "Ajouter Un Nouvel Élément"
+
+#: includes/options.php:81
+msgid "Add or remove Additional features"
+msgstr "Ajouter ou supprimer des fonctionnalités Supplémentaires"
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:66
+msgid "Add pdf"
+msgstr "Ajouter pdf"
+
+#: includes/admin/categories.php:214
+msgid "Add submit button to this checkbox area"
+msgstr "Ajouter le bouton soumettre pour cette case à cocher de la zone"
+
+#: includes/functions.php:310 templates/single-car/car-actions.php:52
+#: templates/single-car/car-actions.php:55
+#: templates/single-car/car-actions.php:59 templates/loop/list/compare.php:28
+msgid "Add to compare"
+msgstr "Ajouter pour comparer"
+
+#: includes/vehicle_functions.php:21
+msgid "Added to compare"
+msgstr "Ajouté à comparer"
+
+#: includes/options.php:69 includes/options.php:70 includes/options.php:84
+#: includes/admin/metaboxes.php:174
+msgid "Additional features"
+msgstr "Des fonctionnalités supplémentaires"
+
+#: includes/admin/metaboxes.php:166
+msgid "Additional videos <br/> (URL Embed video)"
+msgstr ""
+
+#: includes/admin/categories.php:215
+msgid "AJAX filter will be triggered after clicking on button"
+msgstr "AJAX filtre sera déclenché après avoir cliqué sur le bouton"
+
+#: includes/admin/butterbean/inc/controls/class-control-multiselect.php:48
+msgid "All"
+msgstr "Tous"
+
+#: includes/options.php:73
+msgid "All  Additional features"
+msgstr "Toutes les fonctionnalités Supplémentaires"
+
+#: includes/functions.php:584
+msgid "All Items"
+msgstr "Tous Les Articles"
+
+#: includes/admin/startup.php:81
+msgid ""
+"All plugin settings can be set up under Wordpress Customize options. These "
+"settings don't depend on using Theme."
+msgstr ""
+"Tous les paramètres de plug-in peut être mis en place sous Wordpress "
+"Personnaliser les options. Ces paramètres ne dépendent pas de l'aide de "
+"Thème."
+
+#: templates/add_car/registration.php:14
+msgid "Already Registered? Members"
+msgstr "Déjà Inscrit? Les membres de l'"
+
+#: includes/admin/butterbean_metaboxes.php:655
+msgid "Amount of Car Views"
+msgstr "Montant de Voiture Vues"
+
+#: includes/admin/butterbean_metaboxes.php:670
+msgid "Amount of Phone Views"
+msgstr "Quantité de Téléphone Vues"
+
+#: templates/add_car/step_1_additional_fields.php:94
+#: templates/add_car/step_5.php:37
+msgid "Apply"
+msgstr "Appliquer"
+
+#: includes/admin/metaboxes.php:220
+msgid "Badge Background Color"
+msgstr "Insigne De Couleur D'Arrière-Plan"
+
+#: includes/admin/metaboxes.php:212
+msgid "Badge style on inner pages"
+msgstr "Insigne de style sur les pages intérieures"
+
+#: includes/admin/metaboxes.php:216
+msgid "Badge Text (default - SPECIAL)"
+msgstr "Insigne de Texte (par défaut - SPÉCIAUX)"
+
+#: includes/admin/butterbean_metaboxes.php:153
+msgid ""
+"Banner will appear instead of listing image under 'special offers carousel' "
+"module."
+msgstr ""
+"Bannière s'affiche au lieu de la liste de l'image sous \" offres spéciales "
+"carousel module."
+
+#: includes/admin/categories.php:145 includes/admin/categories.php:152
+msgid "Be aware of using both as filter option"
+msgstr "Être conscients d'utiliser à la fois comme option de filtre"
+
+#: includes/customizer/controls/font-weight.php:27
+msgid "Bold"
+msgstr "Gras"
+
+#: includes/customizer/controls/font-weight.php:28
+msgid "Bold Italic"
+msgstr "Gras Italique"
+
+#: includes/customizer/controls/font-weight.php:19
+msgid "Book"
+msgstr "Livre"
+
+#: includes/customizer/controls/font-weight.php:20
+msgid "Book Italic"
+msgstr "Livre En Italique"
+
+#: includes/admin/butterbean_metaboxes.php:630 includes/admin/metaboxes.php:77
+msgid "Brochure (.pdf)"
+msgstr "Brochure (.pdf)"
+
+#: includes/admin/metaboxes.php:111
+msgid "Buy For"
+msgstr "Acheter Pour"
+
+#: includes/functions.php:265
+msgid "By "
+msgstr "Par "
+
+#: includes/admin/categories.php:359
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/vehicle_functions.php:1441
+msgid "Car added, redirecting to checkout"
+msgstr "Voiture ajoutée, la redirection vers la caisse"
+
+#: includes/vehicle_functions.php:1395
+msgid "Car added, redirecting to your account profile"
+msgstr "Voiture ajoutée, la redirection vers le profil de votre compte"
+
+#: includes/vehicle_functions.php:1197
+msgid "Car Added, uploading photos"
+msgstr "Voiture Ajoutée, le téléchargement de photos"
+
+#: templates/single-car/car-actions.php:74 templates/loop/list/features.php:72
+msgid "Car brochure"
+msgstr "Voiture brochure"
+
+#: includes/admin/metaboxes.php:179
+msgid "Car certified logos"
+msgstr "Voiture certifié logos"
+
+#: templates/add_car/step_1.php:19
+msgid "Car Details"
+msgstr "Voiture De Détails"
+
+#: includes/admin/metaboxes.php:32
+msgid "Car ID"
+msgstr "Voiture ID"
+
+#: includes/admin/metaboxes.php:278
+msgid "Car Options"
+msgstr "Voiture Options"
+
+#: includes/admin/butterbean_metaboxes.php:1354
+msgid "Car ordered"
+msgstr "Voiture commandée"
+
+#: includes/admin/butterbean_metaboxes.php:1188
+#: includes/admin/butterbean_metaboxes.php:1329
+msgid "Car rent Info"
+msgstr "Location de voiture Info"
+
+#: includes/admin/butterbean_metaboxes.php:415
+msgid "Car Stock"
+msgstr "Voiture En Stock"
+
+#: templates/add_car/title.php:14
+msgid "Car title"
+msgstr "Voiture titre"
+
+#: includes/vehicle_functions.php:1372
+msgid "Car updated, redirecting to your account profile"
+msgstr "Voiture mise à jour, la redirection vers le profil de votre compte"
+
+#: includes/vehicle_functions.php:1195
+msgid "Car Updated, uploading photos"
+msgstr "Voiture mise à Jour, le téléchargement de photos"
+
+#: includes/admin/metaboxes.php:41
+msgid "Car Views"
+msgstr "Voiture De Vues"
+
+#: includes/admin/butterbean_metaboxes.php:1224
+msgid "Cars included"
+msgstr "Voitures inclus"
+
+#: includes/admin/categories.php:20
+msgid "Caution, you will not be able to change the link later"
+msgstr "Attention, vous ne serez pas en mesure de changer le lien plus tard"
+
+#: includes/admin/butterbean_metaboxes.php:588
+msgid "Certificate 1 Link"
+msgstr "Certificat 1 Lien"
+
+#: includes/admin/butterbean_metaboxes.php:609
+msgid "Certificate 2 Link"
+msgstr "Certificat 2 Lien"
+
+#: includes/admin/butterbean_metaboxes.php:576
+msgid "Certificate name"
+msgstr "Nom de certificat"
+
+#: includes/admin/metaboxes.php:183
+msgid "Certified Logo 1"
+msgstr "Le Logo Certifié 1"
+
+#: includes/admin/metaboxes.php:187
+msgid "Certified Logo 2"
+msgstr "Le Logo Certifié 2"
+
+#: includes/admin/categories.php:504
+msgid "Change icon"
+msgstr "Changer d'icône"
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:69
+msgid "Change image"
+msgstr "Changer l'image"
+
+#: templates/user/private/settings.php:127
+msgid "Change password"
+msgstr "Changer de mot de passe"
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:69
+msgid "Change pdf"
+msgstr "Modifier pdf"
+
+#: includes/admin/categories.php:116
+msgid "Check if you want to see this category in filter"
+msgstr "Cochez si vous souhaitez voir cette catégorie de filtre"
+
+#: includes/admin/categories.php:132
+msgid "Check if you want to see this category in modern filter"
+msgstr "Cochez si vous souhaitez voir cette catégorie moderne de filtre"
+
+#: includes/admin/categories.php:102
+msgid ""
+"Check if you want to see this category on car listing archive page with icon"
+msgstr ""
+"Cochez si vous souhaitez voir cette catégorie sur la voiture d'inscription "
+"page d'archive avec l'icône"
+
+#: includes/admin/categories.php:95
+msgid ""
+"Check if you want to see this category on car listing page (machine card)"
+msgstr ""
+"Cochez si vous souhaitez voir cette catégorie de la voiture la page de la "
+"liste (machine à carte)"
+
+#: includes/admin/categories.php:249
+msgid "Check if you want to see this category on map page"
+msgstr "Cochez si vous souhaitez voir cette catégorie sur la page de la carte"
+
+#: includes/admin/categories.php:109
+msgid "Check if you want to see this category on single car page"
+msgstr ""
+"Cochez si vous souhaitez voir cette catégorie sur une seule voiture de la "
+"page"
+
+#: includes/admin/categories.php:182
+msgid "Check if you want to see this category on single page"
+msgstr "Cochez si vous souhaitez voir cette catégorie sur une seule page"
+
+#: includes/admin/categories.php:139
+msgid "Check if you want to see this category with images"
+msgstr "Cochez si vous souhaitez voir cette catégorie avec des images"
+
+#: includes/admin/categories.php:125
+msgid ""
+"Check if you want to see this in Archive Page and Single Motorcycle Page"
+msgstr ""
+"Cochez si vous souhaitez le voir en Page d'Archive et Unique Page de Moto"
+
+#: templates/user/private/settings.php:60
+msgid "Choose file"
+msgstr "Choisissez fichier"
+
+#: templates/add_car/step_3.php:29 templates/add_car/step_3.php:62
+msgid "Choose files"
+msgstr "Choisir les fichiers"
+
+#: includes/options.php:82
+msgid "Choose from the most used  Additional features"
+msgstr "Choisir le plus utilisé des fonctionnalités Supplémentaires"
+
+#: includes/admin/categories.php:25
+msgid "Choose icon"
+msgstr "Choisir l'icône"
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr "Choisissez l'image"
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:68
+msgid "Choose images"
+msgstr "Choisissez des images"
+
+#: includes/customizer/registration.php:25
+msgid "Choose listing archive page"
+msgstr "Cliquez sur liste de page d'archive"
+
+#: includes/customizer/registration.php:135
+msgid ""
+"Choose page for Add to Listing Page (Also, this page will be used for "
+"editing items)"
+msgstr ""
+"Choisissez la page pour Ajouter à la Page de la Liste (d'ailleurs, cette "
+"page sera utilisée pour la modification d'éléments)"
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:68
+msgid "Choose pdf"
+msgstr "Choisissez format pdf"
+
+#: templates/loop/list/price_rating.php:34
+msgid "City"
+msgstr "Ville"
+
+#: includes/admin/butterbean_metaboxes.php:541 includes/admin/metaboxes.php:97
+msgid "City MPG"
+msgstr "MPG ville"
+
+#: templates/single-car/car-mpg.php:16
+msgid "city mpg"
+msgstr "mpg ville"
+
+#: includes/admin/categories.php:161 includes/admin/categories.php:233
+msgid "Close box by default"
+msgstr "Fermer la boîte par défaut"
+
+#: templates/loop/list/price_rating.php:59
+msgid "Comfort"
+msgstr "Confort"
+
+#: includes/admin/metaboxes.php:170
+msgid "Compare Options"
+msgstr "Comparer Les Options"
+
+#: includes/actions.php:222
+msgid "Confirmation password is wrong"
+msgstr "Confirmation mot de passe est erroné"
+
+#: includes/vehicle_functions.php:659
+msgid ""
+"Congratulations! You have been successfully registered. Please, activate "
+"your account"
+msgstr ""
+"Toutes nos félicitations! Vous avez bien été enregistré. On vous contactera "
+"le plus tôt possible"
+
+#: includes/vehicle_functions.php:640 includes/vehicle_functions.php:665
+msgid ""
+"Congratulations! You have been successfully registered. Redirecting to your "
+"account profile page."
+msgstr ""
+"Toutes nos félicitations! Vous avez bien été enregistré.  On vous contactera "
+"le plus tôt possible"
+
+#: includes/admin/butterbean_metaboxes.php:170
+msgid "Create photo gallery for listing item here"
+msgstr "Créer la galerie de photos pour l'élément de liste ici"
+
+#: includes/admin/butterbean_metaboxes.php:644
+msgid "Created by"
+msgstr "Créé par"
+
+#: templates/user/private/settings.php:213
+msgid "Current Password"
+msgstr "Mot De Passe Actuel"
+
+#: includes/admin/butterbean_metaboxes.php:370
+msgid "Custom label"
+msgstr "Étiquette personnalisée"
+
+#: includes/admin/metaboxes.php:141 templates/add_car/step_6.php:46
+msgid "Custom label instead of price"
+msgstr "Étiquette personnalisée au lieu de prix"
+
+#: includes/vehicle_functions.php:1956 templates/filter/actions.php:13
+msgid "Date: newest first"
+msgstr "Date: le plus récent en premier"
+
+#: includes/vehicle_functions.php:1957 templates/filter/actions.php:14
+msgid "Date: oldest first"
+msgstr "Date: les plus anciens en premier"
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr "Jour"
+
+#: includes/admin/categories.php:362 includes/admin/categories.php:402
+#: templates/user/private/car-edit.php:34
+#: templates/user/private/car-edit.php:43
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:59
+#: includes/admin/butterbean/inc/controls/class-control-repeater.php:57
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/admin/categories.php:506
+msgid "Delete icon"
+msgstr "Icône de suppression"
+
+#: includes/admin/startup.php:94
+msgid "Demo Site"
+msgstr "Site De Démonstration"
+
+#: includes/admin/startup.php:68
+msgid ""
+"Detailed documentation of the plugin which makes easy working with Motors - "
+"Car Dealership plugin."
+msgstr ""
+"Une documentation détaillée de l'plugin qui le rend facile de travailler "
+"avec Motors Concessionnaire plugin."
+
+#: includes/admin/butterbean_metaboxes.php:36
+#: includes/admin/butterbean_metaboxes.php:1049
+#: includes/admin/butterbean_metaboxes.php:1202
+#: includes/admin/butterbean_metaboxes.php:1342
+msgid "Details"
+msgstr "Détails"
+
+#: templates/user/private/car-edit.php:21
+msgid "Disable"
+msgstr "Désactiver"
+
+#: includes/admin/categories.php:62
+msgid "Display field as slider (Only classic filter)"
+msgstr "Champ d'affichage comme curseur (Uniquement filtre classique)"
+
+#: includes/admin/categories.php:52
+msgid "Display field as slider in tabs"
+msgstr "Champ d'affichage que le curseur dans les onglets"
+
+#: includes/actions.php:64 includes/actions.php:110
+msgid "Distance : nearby"
+msgstr "Distance : à proximité"
+
+#: includes/vehicle_functions.php:1823
+msgid "Do you want to delete Listing images permanently?"
+msgstr "Voulez-vous supprimer la Liste des images de façon permanente?"
+
+#: templates/single-car/car-actions.php:72 templates/loop/list/features.php:69
+msgid "Download brochure"
+msgstr "Télécharger la brochure"
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:71
+msgid "Drag and drop featured image here"
+msgstr "Faites glisser et déposez image en vedette ici"
+
+#: includes/admin/categories.php:325 templates/user/private/car-edit.php:14
+#: templates/user/private/car-edit.php:29
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/options.php:76
+msgid "Edit Additional features"
+msgstr "Modifier les caractéristiques Supplémentaires"
+
+#: includes/functions.php:582
+msgid "Edit Item"
+msgstr "Modifier L'Élément"
+
+#: templates/login.php:63 templates/add_car/registration.php:46
+msgid "Email *"
+msgstr "E-mail *"
+
+#: templates/user/private/settings.php:108
+msgid "Email*"
+msgstr "E-mail*"
+
+#: includes/admin/metaboxes.php:129
+msgid "Enable \"Get Car Price\" Form"
+msgstr "Permettre À \"Obtenir Les Prix Des Voitures En\" Forme"
+
+#: includes/admin/butterbean_metaboxes.php:112
+msgid "Enable badge"
+msgstr "Activer le badge"
+
+#: includes/admin/categories.php:175
+msgid ""
+"Enable this field, if you want to include category in Listing Filter title."
+msgstr ""
+"Activez cette option si vous voulez inclure la catégorie dans la Liste "
+"Filtre titre."
+
+#: includes/customizer/registration.php:149
+msgid "Enable User ads moderation"
+msgstr "Permettre à l'Utilisateur les annonces de modération"
+
+#: includes/admin/butterbean_metaboxes.php:435
+msgid "Enable/Disable 'Car sold'"
+msgstr "Activer/Désactiver la Voiture \"vendues\" à des"
+
+#: includes/admin/butterbean_metaboxes.php:386
+msgid "Enable/Disable 'Request a price' form"
+msgstr "Activer/Désactiver la Demande d'un prix \" forme"
+
+#: includes/admin/butterbean_metaboxes.php:400
+msgid "Enable/Disable Sell a car Online"
+msgstr "Activer/Désactiver Vendre une voiture en Ligne"
+
+#: templates/add_car/step_1.php:40
+msgid "Enter"
+msgstr "Entrez"
+
+#: includes/admin/butterbean_metaboxes.php:419
+msgid "Enter amount in stock"
+msgstr "Entrez le montant en stock"
+
+#: includes/admin/butterbean_metaboxes.php:116
+msgid "Enter badge text"
+msgstr "Entrez insigne de texte"
+
+#: templates/add_car/step_1_additional_fields.php:29
+msgid "Enter date"
+msgstr "Entrer la date"
+
+#: templates/login.php:65 templates/add_car/registration.php:48
+#: templates/user/private/settings.php:111
+msgid "Enter E-mail"
+msgstr "Entrez E-mail"
+
+#: templates/user/private/settings.php:84
+msgid "Enter First Name"
+msgstr "Saisissez D'Abord Le Nom De"
+
+#: templates/login.php:47 templates/add_car/registration.php:30
+msgid "Enter First name"
+msgstr "Saisissez d'Abord le nom de"
+
+#: templates/user/private/settings.php:93
+msgid "Enter Last Name"
+msgstr "Saisissez Le Nom De"
+
+#: templates/login.php:52 templates/add_car/registration.php:35
+msgid "Enter Last name"
+msgstr "Saisissez le nom de"
+
+#: templates/user/private/settings.php:188
+msgid "Enter Linkedin Public profile URL"
+msgstr "Entrez Linkedin profil Public URL"
+
+#: templates/login.php:73 templates/add_car/registration.php:56
+msgid "Enter Login"
+msgstr "Entrez Votre Nom D'Utilisateur"
+
+#: templates/login.php:18 templates/add_car/check_user.php:35
+msgid "Enter login or E-mail"
+msgstr "Entrez votre nom d'utilisateur ou E-mail"
+
+#: templates/login.php:81 templates/add_car/registration.php:64
+msgid "Enter Password"
+msgstr "Entrez Le Mot De Passe"
+
+#: templates/login.php:23 templates/add_car/check_user.php:41
+msgid "Enter password"
+msgstr "Entrez le mot de passe"
+
+#: templates/login.php:60 templates/add_car/registration.php:43
+#: templates/user/private/settings.php:103
+msgid "Enter Phone"
+msgstr "Entrez Votre Numéro De Téléphone"
+
+#: includes/vehicle_functions.php:950 includes/vehicle_functions.php:957
+msgid "Enter required fields"
+msgstr "Saisissez les champs requis"
+
+#: templates/add_car/step_5.php:15 templates/add_car/step_5.php:43
+msgid "Enter Seller's notes"
+msgstr "Entrez le Vendeur de billets"
+
+#: includes/vehicle_functions.php:1049
+msgid "Enter title"
+msgstr "Saisissez le titre"
+
+#: templates/add_car/step_1_additional_fields.php:47
+msgid "Enter VIN"
+msgstr "Entrez VIN"
+
+#: templates/user/private/settings.php:209
+msgid "Enter your Current Password to confirm changes"
+msgstr "Entrez votre Mot de passe pour confirmer les modifications"
+
+#: templates/user/private/settings.php:164
+msgid "Enter your Facebook profile URL"
+msgstr "Entrez votre Facebook profil URL"
+
+#: templates/user/private/settings.php:175
+msgid "Enter your Twitter URL"
+msgstr "Entrez votre URL Twitter"
+
+#: templates/user/private/settings.php:199
+msgid "Enter Youtube channel URL"
+msgstr "Entrez la chaîne Youtube URL"
+
+#: includes/actions.php:264
+msgid "Error, please try again"
+msgstr "Erreur, veuillez réessayer"
+
+#: includes/admin/startup.php:97
+msgid ""
+"Example Listings with public access are located in this Demo Site. Feel free "
+"going ahead and try everything with demo Listings."
+msgstr ""
+"Exemple des Listes d'accès public sont situés dans ce Site de Démonstration. "
+"Se sentir libre d'aller de l'avant et de tout essayer avec démo des Listes."
+
+#: templates/loop/list/price_rating.php:75
+msgid "Exterior"
+msgstr "Extérieur"
+
+#: includes/customizer/controls/font-weight.php:29
+msgid "Extra Bold"
+msgstr "Extra Bold"
+
+#: includes/customizer/controls/font-weight.php:30
+msgid "Extra Bold Italic"
+msgstr "Extra Bold Italic"
+
+#: templates/user/private/settings.php:160
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/admin/butterbean_metaboxes.php:1110
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/admin/butterbean_metaboxes.php:52
+msgid "Features"
+msgstr "Caractéristiques"
+
+#: templates/login.php:45 templates/add_car/registration.php:28
+msgid "First Name"
+msgstr "Prénom"
+
+#: templates/user/private/settings.php:81
+msgid "First name"
+msgstr "Prénom"
+
+#: includes/options.php:623
+msgid "Font Awesome"
+msgstr "Police Impressionnant"
+
+#: includes/admin/startup.php:112
+msgid "Forum"
+msgstr "Forum"
+
+#: templates/single-car/car-gallery.php:78
+#: templates/single-car/car-gallery.php:117
+msgid "full"
+msgstr "plein"
+
+#: includes/admin/metaboxes.php:150
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/admin/metaboxes.php:146
+msgid "Gallery Options"
+msgstr "Galerie D'Options"
+
+#: includes/admin/metaboxes.php:162
+msgid "Gallery Video <br/> (URL Embed video)"
+msgstr ""
+
+#: includes/admin/butterbean_metaboxes.php:552 includes/admin/metaboxes.php:101
+msgid "Highway MPG"
+msgstr "MPG autoroute"
+
+#: includes/admin/metaboxes.php:69
+#: templates/add_car/step_1_additional_fields.php:70
+msgid "History"
+msgstr "L'histoire"
+
+#: includes/admin/metaboxes.php:73
+msgid "History Link"
+msgstr "Histoire De Lien"
+
+#: includes/admin/metaboxes.php:191
+msgid "History link 2"
+msgstr "Histoire de lien 2"
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr "Heure"
+
+#: includes/options.php:670
+msgid "How to add new icon pack"
+msgstr "Comment ajouter une nouvelle icône pack"
+
+#. URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: templates/loop/list/price_rating.php:34
+msgid "Hwy"
+msgstr "L'autoroute"
+
+#: templates/single-car/car-mpg.php:23
+msgid "hwy mpg"
+msgstr "mpg autoroute"
+
+#: includes/admin/categories.php:586
+msgid "Image"
+msgstr "Image"
+
+#: includes/admin/butterbean_metaboxes.php:183
+msgid ""
+"Image for video preview. Please note that video will start playing in a pop-"
+"up window."
+msgstr ""
+"L'Image de l'aperçu de la vidéo. Veuillez noter que la vidéo démarre dans "
+"une fenêtre pop-up."
+
+#: includes/admin/butterbean_metaboxes.php:76
+msgid "Images"
+msgstr "Images"
+
+#: includes/admin/xml-importer.php:10 includes/admin/xml-importer.php:11
+#: includes/admin/xml-importer.php:92
+msgid "Import from XML"
+msgstr "L'importation de XML"
+
+#: includes/admin/metaboxes.php:116
+msgid "Included Taxes & Checkup"
+msgstr "Inclus Les Taxes Et Bilan"
+
+#: templates/add_car/step_1_additional_fields.php:92
+msgid "Insert link"
+msgstr "Insérer un lien"
+
+#: includes/admin/butterbean_metaboxes.php:357
+msgid "Instant savings label"
+msgstr "Un rabais instantané de l'étiquette"
+
+#: includes/admin/metaboxes.php:124
+msgid "Instant savings label (default - Instant Savings:)"
+msgstr ""
+"Un rabais instantané de l'étiquette (par défaut Instantanée des Économies:)"
+
+#: includes/admin/metaboxes.php:126
+msgid "Instant Savings:"
+msgstr "Des Économies Instantanées:"
+
+#: templates/loop/list/price_rating.php:67
+msgid "Interior"
+msgstr "Intérieur"
+
+#: includes/customizer/registration.php:57
+msgid "Inventory settings"
+msgstr "Les paramètres d'inventaire"
+
+#: templates/user/private/settings.php:67
+msgid "JPEG or PNG minimal 160x160px"
+msgstr "JPEG ou PNG minimale 160x160px"
+
+#: templates/login.php:50 templates/add_car/registration.php:33
+msgid "Last Name"
+msgstr "Nom De Famille"
+
+#: templates/user/private/settings.php:90
+msgid "Last name"
+msgstr "Nom de famille"
+
+#: includes/admin/butterbean_metaboxes.php:503 includes/admin/metaboxes.php:85
+msgid "Latitude"
+msgstr "Latitude"
+
+#: includes/admin/startup.php:65
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: includes/customizer/registration.php:9
+msgid "Left"
+msgstr "De gauche"
+
+#: includes/customizer/controls/font-weight.php:17
+msgid "Light"
+msgstr "La lumière"
+
+#: includes/customizer/controls/font-weight.php:18
+msgid "Light Italic"
+msgstr "Light Italic"
+
+#: templates/user/private/settings.php:184
+msgid "Linked In"
+msgstr "Liés À"
+
+#: includes/customizer/registration.php:15
+msgid "Listing"
+msgstr "Liste"
+
+#: includes/customizer/registration.php:22
+msgid "Listing archive"
+msgstr "Liste archive"
+
+#: includes/admin/categories.php:272 includes/admin/categories.php:273
+msgid "Listing Categories"
+msgstr "Liste Des Catégories"
+
+#: includes/admin/butterbean_metaboxes.php:447
+msgid "Listing ID"
+msgstr "Listing ID"
+
+#: includes/admin/butterbean_metaboxes.php:490
+msgid "Listing location"
+msgstr "Inscription emplacement"
+
+#: includes/admin/butterbean_metaboxes.php:23
+msgid "Listing manager"
+msgstr "Listing manager"
+
+#: includes/admin/butterbean_metaboxes.php:385
+msgid "Listing price form"
+msgstr "Prix d'inscription formulaire"
+
+#: includes/functions.php:570 includes/functions.php:571
+#: includes/vehicle_functions.php:79 includes/vehicle_functions.php:80
+msgid "Listings"
+msgstr "Listes"
+
+#: includes/admin/metaboxes.php:81
+msgid "Location"
+msgstr "Emplacement"
+
+#: includes/vehicle_functions.php:840 templates/add_car/registered.php:41
+msgid "Log out"
+msgstr "Déconnecter"
+
+#: templates/login.php:32
+msgid "Login"
+msgstr "Connexion"
+
+#: templates/login.php:71 templates/add_car/registration.php:54
+msgid "Login *"
+msgstr "Login *"
+
+#: templates/add_car/registration.php:15
+msgid "Login Here"
+msgstr "Connectez-Vous Ici"
+
+#: templates/login.php:16 templates/add_car/check_user.php:33
+msgid "Login or E-mail"
+msgstr "Login ou E-mail"
+
+#: templates/single-car/car-actions.php:90 templates/loop/list/features.php:116
+msgid "Logo 1"
+msgstr "Logo 1"
+
+#: templates/single-car/car-actions.php:104
+#: templates/loop/list/features.php:139
+msgid "Logo 2"
+msgstr "Logo 2"
+
+#: includes/admin/butterbean_metaboxes.php:516 includes/admin/metaboxes.php:89
+msgid "Longtitude"
+msgstr "La longitude"
+
+#: templates/user/private/settings.php:74
+msgid "Main Information"
+msgstr "Informations Principales"
+
+#: includes/admin/metaboxes.php:45
+msgid "Main Options"
+msgstr "Principales Options"
+
+#: includes/admin/categories.php:324
+msgid "Manage"
+msgstr "Gérer"
+
+#. Description of the plugin
+msgid ""
+"Manage classified listings from the WordPress admin panel, and allow users "
+"to post classified listings directly to your website."
+msgstr ""
+"Gérer petites annonces à partir du panneau d'administration de WordPress, et "
+"de permettre aux utilisateurs de poster des petites annonces directement à "
+"votre site web."
+
+#: includes/admin/butterbean_metaboxes.php:434
+msgid "Mark as sold"
+msgstr "Marque vendu"
+
+#: includes/admin/metaboxes.php:137
+msgid "Mark car as sold"
+msgstr "Marque de voiture vendu"
+
+#: includes/functions.php:486
+#, php-format
+msgid "Max %s"
+msgstr "Max de %s"
+
+#: includes/customizer/controls/font-weight.php:23
+msgid "Medium"
+msgstr "Moyen"
+
+#: includes/customizer/controls/font-weight.php:24
+msgid "Medium Italic"
+msgstr "Medium Italic"
+
+#: includes/vehicle_functions.php:1961 templates/filter/actions.php:18
+msgid "Mileage: highest first"
+msgstr "Kilométrage: plus haut d'abord"
+
+#: includes/vehicle_functions.php:1960 templates/filter/actions.php:17
+msgid "Mileage: lowest first"
+msgstr "Kilométrage: plus bas en premier"
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr "Minutes"
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr "Mois"
+
+#: includes/admin/startup.php:99
+msgid "Motors demo"
+msgstr "Moteurs de démonstration"
+
+#: includes/options.php:626
+msgid "Motors Pack"
+msgstr "Moteurs Pack"
+
+#: includes/admin/startup.php:45
+msgid "Motors plugin is now installed and ready to use!"
+msgstr "Moteurs plugin est maintenant installé et prêt à l'emploi!"
+
+#. Name of the plugin
+msgid "Motors – Car Dealer, Classifieds & Listing"
+msgstr "Moteurs – Concessionnaire De Voitures, Des Petites Annonces Et Listing"
+
+#: includes/admin/metaboxes.php:93
+msgid "MPG"
+msgstr "MPG"
+
+#: includes/admin/metaboxes.php:121
+msgid "MSRP"
+msgstr "PDSF"
+
+#: templates/user/private/sidebar.php:49
+msgid "My Inventory"
+msgstr "Mon Inventaire"
+
+#: templates/user/private/inventory.php:14
+msgid "My inventory"
+msgstr "Mon inventaire"
+
+#: includes/vehicle_functions.php:896
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/functions.php:583
+msgid "New Item"
+msgstr "Un Nouvel Élément"
+
+#: templates/user/private/settings.php:134
+msgid "New Password"
+msgstr "Nouveau Mot De Passe"
+
+#: includes/actions.php:352
+msgid "New password not saved, because of wrong confirmation."
+msgstr ""
+"Nouveau mot de passe non enregistré, en raison de mauvais confirmation."
+
+#: includes/admin/categories.php:335
+msgid "No"
+msgstr "Pas de"
+
+#: includes/options.php:83
+msgid "No Additional features found"
+msgstr "Pas de fonctionnalités Supplémentaires trouvé"
+
+#: templates/add-a-car.php:55
+msgid "No car to edit."
+msgstr "Pas de voiture pour le modifier."
+
+#: templates/user/private/settings.php:62
+#: templates/user/private/settings.php:238
+msgid "No File Chosen"
+msgstr "Aucun Fichier Choisi"
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr "Aucune image sélectionnée"
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:72
+msgid "No images selected"
+msgstr "Aucune image n'est sélectionnée"
+
+#: templates/user/public/user.php:79
+msgid "No Inventory added yet."
+msgstr "Pas de stock, a ajouté encore."
+
+#: templates/user/private/inventory.php:36
+msgid "No Inventory yet"
+msgstr "Pas de stock encore"
+
+#: includes/functions.php:587
+msgid "No items found"
+msgstr "Pas d'articles trouvés"
+
+#: includes/functions.php:588
+msgid "No items found in Trash"
+msgstr "Pas d'éléments trouvés dans la Corbeille"
+
+#: templates/compare/compare.php:44
+msgid "No items in compare"
+msgstr "Pas d'articles à comparer"
+
+#: includes/options.php:495
+msgid "No parent"
+msgstr "Aucun parent n'"
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:71
+msgid "No pdf selected"
+msgstr "Pas de pdf sélectionné"
+
+#: templates/loop/list/price_rating.php:87
+msgid "No reviews for this Vehicle"
+msgstr "Pas de commentaires sur ce Véhicule"
+
+#: templates/compare/car-loop.php:44 templates/compare/car-loop.php:48
+msgid "None"
+msgstr "Aucun"
+
+#: includes/admin/butterbean_helpers.php:115 includes/admin/metaboxes.php:20
+msgid "Not assigned"
+msgstr "Pas attribué"
+
+#: includes/admin/categories.php:33
+msgid "Number field"
+msgstr "Numéro de champ"
+
+#: includes/admin/categories.php:47
+msgid "Number field affix"
+msgstr "Champ numéro d'apposer"
+
+#: includes/admin/categories.php:323
+msgid "Numeric"
+msgstr "Numérique"
+
+#: includes/admin/categories.php:34
+msgid ""
+"Numeric value will be compared in another way (useful for mileage or fuel "
+"economy)"
+msgstr ""
+"Valeur numérique seront comparés d'une autre manière (utile pour le "
+"kilométrage ou l'économie de carburant)"
+
+#: includes/admin/butterbean_metaboxes.php:1060
+msgid "Office address"
+msgstr "Adresse du siège"
+
+#: includes/admin/butterbean_metaboxes.php:1036
+msgid "Office Info"
+msgstr "Bureau Info"
+
+#: includes/admin/butterbean_metaboxes.php:1072
+msgid "Office latitude"
+msgstr "Office de latitude"
+
+#: includes/admin/butterbean_metaboxes.php:1085
+msgid "Office longitude"
+msgstr "Office de longitude"
+
+#: includes/admin/categories.php:53 includes/admin/categories.php:63
+msgid "Only for number field"
+msgstr "Seulement pour le nombre de champ"
+
+#: includes/admin/butterbean_metaboxes.php:566
+#: includes/admin/butterbean_metaboxes.php:577
+msgid "Only in classified layout"
+msgstr "Seulement classés mise en page"
+
+#: includes/admin/categories.php:160 includes/admin/categories.php:232
+msgid "Open box by default"
+msgstr "Zone ouvrir par défaut"
+
+#: includes/admin/butterbean_metaboxes.php:44
+msgid "Options"
+msgstr "Options"
+
+#: includes/admin/butterbean_metaboxes.php:1364
+msgid "Options ordered"
+msgstr "Les Options commandées"
+
+#: templates/filter/result_with_rating.php:47
+msgid "out of 5.0"
+msgstr "de 5.0"
+
+#: templates/login.php:21 templates/add_car/check_user.php:39
+msgid "Password"
+msgstr "Mot de passe"
+
+#: templates/login.php:76 templates/add_car/registration.php:59
+msgid "Password *"
+msgstr "Mot de passe *"
+
+#: templates/user/private/car-edit.php:27
+msgid "Pending"
+msgstr "En attendant"
+
+#: templates/loop/list/price_rating.php:51
+msgid "Performance"
+msgstr "Performance"
+
+#: includes/admin/butterbean_metaboxes.php:1098
+#: templates/user/private/settings.php:100
+msgid "Phone"
+msgstr "Téléphone"
+
+#: templates/login.php:58 templates/add_car/registration.php:41
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+#: includes/admin/butterbean_metaboxes.php:1374
+msgid "Pickup Date"
+msgstr "Date De La Collecte"
+
+#: includes/admin/butterbean_metaboxes.php:1387
+msgid "Pickup location"
+msgstr "Lieu de ramassage"
+
+#: includes/vehicle_functions.php:1029
+msgid "Please add car price"
+msgstr "S'il vous plaît ajouter les prix des voitures"
+
+#: includes/vehicle_functions.php:622
+msgid "Please confirm your email"
+msgstr "Veuillez confirmer votre e-mail"
+
+#: includes/vehicle_functions.php:525 includes/vehicle_functions.php:707
+msgid "Please fill required fields"
+msgstr "Veuillez remplir les champs obligatoires"
+
+#: includes/actions.php:307
+msgid "Please load image with right extension (jpg, jpeg, png and gif)"
+msgstr ""
+"Veuillez charger l'image à droite de l'extension (jpg, jpeg, png et gif)"
+
+#: templates/add-a-car.php:41
+msgid "Please login."
+msgstr "Veuillez vous connecter."
+
+#: includes/vehicle_functions.php:571
+msgid "Please, enter captcha"
+msgstr "S'il vous plaît, entrez le captcha"
+
+#: includes/vehicle_functions.php:912
+msgid "Please, log in"
+msgstr "S'il vous plaît, connectez"
+
+#: includes/admin/startup.php:78
+msgid "Plugin Options"
+msgstr "Les Options Du Plugin"
+
+#: includes/admin/startup.php:107
+msgid "Plugin support"
+msgstr "Support des plugins"
+
+#: includes/admin/categories.php:321
+msgid "Plural"
+msgstr "Pluriel"
+
+#: includes/admin/categories.php:14
+msgid "Plural name"
+msgstr "Nom au pluriel"
+
+#: includes/options.php:72
+msgid "Popular Additional features"
+msgstr "Populaire des fonctionnalités Supplémentaires"
+
+#: includes/admin/categories.php:533
+msgid "Preview"
+msgstr "Aperçu"
+
+#: includes/admin/butterbean_metaboxes.php:240 templates/add_car/step_6.php:27
+msgid "Price"
+msgstr "Prix"
+
+#: includes/customizer/registration.php:29
+msgid "Price currency"
+msgstr "Prix de la monnaie"
+
+#: includes/customizer/registration.php:34
+msgid "Price currency position"
+msgstr "Prix de position de change"
+
+#: includes/customizer/registration.php:40
+msgid "Price delimiter"
+msgstr "Prix délimiteur"
+
+#: includes/admin/metaboxes.php:105
+msgid "Price Options"
+msgstr "Prix Des Options De"
+
+#: includes/vehicle_functions.php:1959 templates/filter/actions.php:16
+msgid "Price: highest first"
+msgstr "Prix: le plus haut d'abord"
+
+#: includes/vehicle_functions.php:1958 templates/filter/actions.php:15
+msgid "Price: lower first"
+msgstr "Prix: inférieure en premier"
+
+#: includes/admin/butterbean_metaboxes.php:60
+msgid "Prices"
+msgstr "Prix"
+
+#: includes/vehicle_functions.php:828 templates/add_car/registered.php:29
+#: templates/single-car/car-user.php:33 templates/user/private/sidebar.php:31
+#: templates/user/public/user.php:35
+msgid "Private Seller"
+msgstr "Vendeur Privé"
+
+#: templates/user/private/settings.php:19 templates/user/private/sidebar.php:55
+msgid "Profile Settings"
+msgstr "Les Paramètres De Profil"
+
+#: includes/vehicle_functions.php:1057
+#, php-format
+msgid ""
+"Providing consent to our <a href='%s'>%s</a> is necessary in order to use "
+"our services and products."
+msgstr ""
+
+#: templates/user/private/settings.php:141
+msgid "Re-enter New Password"
+msgstr "Entrez à nouveau le Nouveau Mot de passe"
+
+#: templates/add_car/step_1_additional_fields.php:33
+msgid "Registered"
+msgstr "Enregistré"
+
+#: includes/admin/butterbean_metaboxes.php:564 includes/admin/metaboxes.php:65
+msgid "Registration date"
+msgstr "Date d'enregistrement"
+
+#: includes/admin/butterbean_metaboxes.php:467 includes/admin/metaboxes.php:57
+msgid "Registration number"
+msgstr "Numéro d'enregistrement"
+
+#: includes/customizer/controls/font-weight.php:21
+msgid "Regular"
+msgstr "Régulier"
+
+#: includes/customizer/controls/font-weight.php:22
+msgid "Regular Italic"
+msgstr "Réguliers Italique"
+
+#: includes/admin/metaboxes.php:231
+msgid "Regular Price"
+msgstr "Prix Régulier"
+
+#: includes/admin/butterbean_metaboxes.php:333
+msgid "Regular price description"
+msgstr "Prix régulier description"
+
+#: includes/admin/metaboxes.php:114
+msgid "Regular price description (default - Included Taxes & Checkup)"
+msgstr "Prix régulier description (par défaut - Inclus les Taxes et Bilan)"
+
+#: includes/admin/butterbean_metaboxes.php:321
+msgid "Regular price label"
+msgstr "Prix régulier étiquette"
+
+#: includes/admin/metaboxes.php:109
+msgid "Regular price label (default - Buy For)"
+msgstr "Prix régulier de l'étiquette (par défaut - Pour Acheter)"
+
+#: templates/login.php:28 templates/add_car/check_user.php:47
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:70
+msgid "Remove all"
+msgstr "Supprimer toutes les"
+
+#: includes/functions.php:314 templates/single-car/car-actions.php:43
+#: templates/single-car/car-actions.php:46
+#: templates/single-car/car-actions.php:60 templates/loop/list/compare.php:19
+msgid "Remove from compare"
+msgstr "Retirer de comparer"
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr "Supprimer l'image"
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:70
+msgid "Remove pdf"
+msgstr "Supprimer pdf"
+
+#: includes/admin/butterbean_metaboxes.php:268
+msgid "Rent Price"
+msgstr "Prix De La Location"
+
+#: templates/filter/sidebar.php:55
+msgid "Reset all"
+msgstr "Réinitialisation de tous les"
+
+#: includes/admin/butterbean_metaboxes.php:1400
+msgid "Return date"
+msgstr "La date de retour"
+
+#: includes/admin/butterbean_metaboxes.php:1413
+msgid "Return location"
+msgstr "Lieu de retour"
+
+#: includes/customizer/registration.php:10
+msgid "Right"
+msgstr "Droit"
+
+#: includes/admin/butterbean_metaboxes.php:254 includes/admin/metaboxes.php:235
+#: templates/add_car/step_6.php:36
+msgid "Sale Price"
+msgstr "Prix De Vente"
+
+#: includes/admin/butterbean_metaboxes.php:282
+msgid "Sale Rent Price"
+msgstr "Vente Le Prix De La Location"
+
+#: includes/admin/categories.php:356 includes/admin/categories.php:397
+msgid "Save"
+msgstr "Enregistrer"
+
+#: templates/user/private/settings.php:217
+msgid "Save Changes"
+msgstr "Enregistrer Les Modifications"
+
+#: templates/loop/list/features.php:57
+msgid "Schedule Test Drive"
+msgstr "Calendrier De Test Drive"
+
+#: includes/options.php:71
+msgid "Search Additional features"
+msgstr "La recherche de fonctionnalités Supplémentaires"
+
+#: includes/functions.php:586
+msgid "Search Items"
+msgstr "Les Éléments De Recherche"
+
+#: templates/filter/sidebar.php:14
+msgid "Search Options"
+msgstr "Les Options De Recherche"
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr "Deuxième"
+
+#: templates/add_car/step_1.php:54 templates/add_car/step_1.php:80
+msgid "Select"
+msgstr "Sélectionnez"
+
+#: templates/add_car/step_5.php:26
+msgid "Select all the phrases that apply to your vehicle."
+msgstr "Sélectionnez toutes les phrases qui s'appliquent à votre véhicule."
+
+#: templates/add_car/step_2.php:23
+msgid "Select Your Car Features"
+msgstr "Choisissez Votre Voiture Dispose D'"
+
+#: includes/admin/butterbean/inc/controls/class-control-multiselect.php:49
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: includes/admin/butterbean_metaboxes.php:399 includes/admin/metaboxes.php:133
+msgid "Sell a car Online"
+msgstr "Vendre une voiture en Ligne"
+
+#: templates/user/private/sidebar.php:64
+msgid "Seller Contact Phone"
+msgstr "Vendeur De Téléphone De Contact"
+
+#: templates/single-car/car-user.php:47 templates/user/private/sidebar.php:71
+msgid "Seller Email"
+msgstr "Le Vendeur E-Mail"
+
+#: templates/user/public/user.php:42
+msgid "Seller email"
+msgstr "Le vendeur e-mail"
+
+#: templates/user/public/user.php:51
+msgid "Seller phone"
+msgstr "Vendeur de téléphone"
+
+#: templates/user/public/user.php:60
+msgid "Sellers Inventory"
+msgstr "Les Vendeurs D'Inventaire"
+
+#: includes/customizer/controls/font-weight.php:25
+msgid "Semi-Bold"
+msgstr "Semi-Gras"
+
+#: includes/customizer/controls/font-weight.php:26
+msgid "Semi-Bold Italic"
+msgstr "Semi-Gras Italique"
+
+#: includes/options.php:80
+msgid "Separate Additional features"
+msgstr "Séparer les fonctionnalités Supplémentaires"
+
+#: includes/admin/metaboxes.php:176
+msgid ""
+"Separate features with commas, ex: Auxiliary heating,Bluetooth,CD player,"
+"Central locking"
+msgstr ""
+"Des fonctions séparées par une virgule, ex: chauffage Auxiliaire,Bluetooth,"
+"lecteur CD,verrouillage Central"
+
+#: includes/admin/butterbean_metaboxes.php:458 includes/admin/metaboxes.php:53
+msgid "Serial number"
+msgstr "Numéro de série"
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr "Définir comme image"
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:67
+msgid "Set as pdf"
+msgstr "Définir comme pdf"
+
+#: includes/admin/categories.php:187
+msgid "Set parent taxonomy"
+msgstr "Set parent taxonomie"
+
+#: templates/add_car/step_6.php:17
+msgid "Set Your Asking Price"
+msgstr "Définir Votre Prix Demandé"
+
+#: includes/options.php:758
+msgid "Settings saved"
+msgstr "Les paramètres enregistrés"
+
+#: includes/actions.php:192
+msgid "Settings Saved."
+msgstr "Les Paramètres Enregistrés."
+
+#: includes/admin/startup.php:83
+msgid "Setup plugin"
+msgstr "Configuration du plugin"
+
+#: templates/loop/list/features.php:86 templates/loop/list/features.php:88
+msgid "Share this"
+msgstr "Partager cette"
+
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:58
+msgid "Show all"
+msgstr "Afficher tous les"
+
+#: templates/filter/sidebar.php:52
+msgid "Show cars"
+msgstr "Expositions de voitures"
+
+#: includes/customizer/registration.php:89
+msgid "Show certified logo 1"
+msgstr "Afficher le logo certifié 1"
+
+#: includes/customizer/registration.php:93
+msgid "Show certified logo 2"
+msgstr "Afficher le logo certifié 2"
+
+#: includes/customizer/registration.php:50
+#: includes/customizer/registration.php:74
+msgid "Show compare"
+msgstr "Afficher les comparer"
+
+#: templates/user/private/settings.php:116
+msgid "Show Email Address on my Profile"
+msgstr "Afficher Adresse e-Mail sur mon Profil"
+
+#: includes/customizer/registration.php:97
+msgid "Show featured button"
+msgstr "Spectacle présenté bouton"
+
+#: includes/customizer/registration.php:115
+msgid "Show History"
+msgstr "Afficher L'Historique"
+
+#: includes/admin/categories.php:237
+msgid "Show in admin column table"
+msgstr "Montrer dans l'admin de la colonne de la table"
+
+#: includes/vehicle_functions.php:836 templates/add_car/registered.php:37
+#: templates/user/private/sidebar.php:80
+msgid "Show my Public Profile"
+msgstr "Afficher mon Profil Public"
+
+#: includes/customizer/registration.php:84
+msgid "Show PDF brochure"
+msgstr "Afficher la brochure PDF"
+
+#: includes/customizer/registration.php:110
+msgid "Show Registered date"
+msgstr "Spectacle Enregistré date"
+
+#: includes/customizer/registration.php:79
+msgid "Show share block"
+msgstr "Afficher share bloc"
+
+#: includes/customizer/registration.php:45
+#: includes/customizer/registration.php:64
+msgid "Show stock"
+msgstr "Montrer stock"
+
+#: includes/customizer/registration.php:69
+msgid "Show test drive schedule"
+msgstr "Montrer test drive annexe"
+
+#: includes/admin/butterbean_metaboxes.php:101
+msgid ""
+"Show this item in 'special offers carousel' module and Featured Listing on "
+"Classified layout"
+msgstr ""
+"Afficher cet élément dans les \"offres spéciales carrousel' module et Liste "
+"Vedette sur Classés mise en page"
+
+#: includes/customizer/registration.php:105
+msgid "Show VIN"
+msgstr "Montrer VIN"
+
+#: templates/login.php:12
+msgid "Sign In"
+msgstr "Signe Dans"
+
+#: templates/login.php:39 templates/add_car/registration.php:13
+msgid "Sign Up"
+msgstr "Inscrivez -"
+
+#: templates/login.php:88 templates/add_car/registration.php:71
+msgid "Sign up now!"
+msgstr "Inscrivez-vous maintenant!"
+
+#: includes/admin/metaboxes.php:29
+msgid "Single car page options"
+msgstr "Les voitures d'options de la page"
+
+#: includes/customizer/registration.php:122
+msgid "Single Listing Settings"
+msgstr "Seule Liste De Paramètres"
+
+#: includes/admin/categories.php:320
+msgid "Singular"
+msgstr "Singulier"
+
+#: includes/admin/categories.php:9
+msgid "Singular name"
+msgstr "Nom singulier"
+
+#: includes/options.php:838
+msgid "Singular, Plural names and Slug are required"
+msgstr "Singulier, le Pluriel des noms et des Limaces sont nécessaires"
+
+#: includes/customizer/registration.php:154
+msgid "Site demo mode"
+msgstr "Site mode démo"
+
+#: includes/actions.php:391 includes/vehicle_functions.php:705
+#: includes/vehicle_functions.php:927 includes/vehicle_functions.php:1236
+msgid "Site is on demo mode"
+msgstr "Le Site est en mode démo"
+
+#: includes/admin/categories.php:72
+msgid "Slider step"
+msgstr "Curseur étape"
+
+#: templates/add-a-car.php:33
+msgid "Slots available"
+msgstr "Emplacements disponibles"
+
+#: includes/admin/categories.php:19 includes/admin/categories.php:322
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/options.php:844
+msgid "Slug name is already in use. Please choose another slug name."
+msgstr "Slug nom est déjà utilisé. Veuillez choisir un autre slug nom."
+
+#: includes/options.php:714
+msgid "Some error occurred 1"
+msgstr "Une erreur s'est produite 1"
+
+#: includes/options.php:722
+msgid "Some error occurred 2"
+msgstr "Une erreur s'est produite 2"
+
+#: includes/options.php:730
+msgid "Some error occurred 3"
+msgstr "Une erreur s'est produite 3"
+
+#: includes/vehicle_functions.php:1244
+msgid "Some error occurred, try again later"
+msgstr "Une erreur s'est produite, essayez de nouveau plus tard"
+
+#: includes/vehicle_functions.php:1301
+msgid "Sorry, image has invalid format"
+msgstr "Désolé, l'image est de format non valide"
+
+#: includes/vehicle_functions.php:1298
+msgid "Sorry, image is too large"
+msgstr "Désolé, l'image est trop grande"
+
+#: templates/filter/results.php:13 templates/filter/result_with_rating.php:94
+msgid "Sorry, No results"
+msgstr "Désolé, Aucun résultat"
+
+#: includes/vehicle_functions.php:1284
+#, php-format
+msgid "Sorry, you can upload only %d images per add"
+msgstr "Désolé, vous ne pouvez charger qu' %d images par ajouter"
+
+#: templates/filter/actions.php:8
+msgid "Sort by:"
+msgstr "Trier par:"
+
+#: templates/single-car/car-gallery.php:25
+msgid "Special"
+msgstr "Spécial"
+
+#: includes/admin/butterbean_metaboxes.php:99
+msgid "Special offer"
+msgstr "Offre spéciale"
+
+#: includes/admin/butterbean_metaboxes.php:137
+msgid "Special offer text"
+msgstr "Offre spéciale de texte"
+
+#: includes/admin/butterbean_metaboxes.php:345
+msgid "Special price label"
+msgstr "Prix spécial de l'étiquette"
+
+#: includes/admin/metaboxes.php:119
+msgid "Special price label (default - MSRP)"
+msgstr "Prix spécial de l'étiquette (par défaut - PDSF)"
+
+#: includes/admin/butterbean_metaboxes.php:68
+msgid "Specials"
+msgstr "Specials"
+
+#: templates/loop/list/price_rating.php:26
+msgid "Starting at"
+msgstr "Départ à"
+
+#: templates/add_car/step_1.php:20 templates/add_car/step_2.php:24
+#: templates/add_car/step_3.php:13 templates/add_car/step_4.php:14
+#: templates/add_car/step_5.php:16 templates/add_car/step_6.php:18
+msgid "step"
+msgstr "étape"
+
+#: templates/single-car/car-actions.php:31 templates/loop/list/features.php:46
+msgid "stock"
+msgstr "stock"
+
+#: includes/admin/butterbean_metaboxes.php:478 includes/admin/metaboxes.php:49
+msgid "Stock number"
+msgstr "Numéro de Stock"
+
+#: includes/admin/butterbean_metaboxes.php:1214
+msgid "Stock quantity"
+msgstr "La quantité de Stock"
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#: templates/add_car/check_user.php:59
+msgid "Submit listing"
+msgstr "Soumettre liste"
+
+#: includes/vehicle_functions.php:501
+msgid "Successfully logged in. Redirecting..."
+msgstr "Connecté avec succès. La redirection..."
+
+#: includes/admin/categories.php:40
+msgid "This affix will be shown after number. Example: mi, pcs, etc."
+msgstr "Cette apposer sera affiché après le numéro. Exemple: mi, pc, etc."
+
+#: includes/admin/categories.php:238
+msgid "This column will be shown in admin"
+msgstr "Cette colonne sera affichée dans l'admin"
+
+#: includes/admin/butterbean_metaboxes.php:372 includes/admin/metaboxes.php:143
+msgid "This text will appear instead of price"
+msgstr "Ce texte apparaîtra à la place des prix"
+
+#: templates/add_car/title.php:16
+msgid "Title"
+msgstr "Titre"
+
+#: includes/vehicle_functions.php:841 templates/add_car/registered.php:42
+msgid "to choose a different account"
+msgstr "pour choisir un autre compte"
+
+#: templates/user/private/settings.php:171
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/customizer/controls/font-weight.php:31
+msgid "Ultra Bold"
+msgstr "Ultra Gras"
+
+#: includes/customizer/controls/font-weight.php:32
+msgid "Ultra Bold Italic"
+msgstr "Ultra Bold Italic"
+
+#: includes/customizer/controls/font-weight.php:15
+msgid "Ultra Light"
+msgstr "Ultra Léger"
+
+#: includes/customizer/controls/font-weight.php:16
+msgid "Ultra Light Italic"
+msgstr "Ultra Light Italic"
+
+#: includes/options.php:77
+msgid "Update Additional features"
+msgstr "Mise à jour des fonctionnalités Supplémentaires"
+
+#: templates/user/private/settings.php:57
+msgid "Upload new avatar"
+msgstr "Télécharger nouvel avatar"
+
+#: templates/add_car/step_3.php:12
+msgid "Upload photo"
+msgstr "Télécharger photo"
+
+#: includes/admin/categories.php:209
+msgid "Use as 1 column per row"
+msgstr "Utiliser comme 1 colonne par ligne"
+
+#: includes/admin/categories.php:210
+msgid "Use as 2 columns per row"
+msgstr "2 colonnes par ligne"
+
+#: includes/admin/categories.php:194 includes/admin/categories.php:201
+msgid "Use as checkboxes with images 1 or 2 columns"
+msgstr "Utiliser que des cases à cocher avec des images 1 ou 2 colonnes"
+
+#: includes/admin/categories.php:138
+msgid "Use images for this category"
+msgstr "Utiliser des images pour cette catégorie"
+
+#: includes/admin/categories.php:165
+msgid "Use in footer search"
+msgstr "Utilisation dans le pied de page de recherche"
+
+#: includes/admin/categories.php:124
+msgid "Use in tabs"
+msgstr "Utilisation dans des onglets"
+
+#: includes/admin/categories.php:115
+msgid "Use on car filter"
+msgstr "L'utilisation de la voiture filtre"
+
+#: includes/admin/categories.php:144 includes/admin/categories.php:151
+msgid "Use on car filter as block with links"
+msgstr "L'utilisation de la voiture par filtre de bloc avec des liens"
+
+#: includes/admin/categories.php:131
+msgid "Use on car modern filter"
+msgstr "L'utilisation de la voiture moderne filtre"
+
+#: includes/admin/categories.php:94
+msgid "Use on item grid view"
+msgstr "Utiliser sur le point de vue de grille"
+
+#: includes/admin/categories.php:101
+msgid "Use on item list view"
+msgstr "Utiliser sur le point de vue de liste"
+
+#: includes/admin/categories.php:193 includes/admin/categories.php:200
+#: includes/admin/categories.php:224
+msgid "Use on listing archive as checkboxes"
+msgstr "Utiliser la liste des archives que des cases à cocher"
+
+#: includes/admin/categories.php:248
+msgid "Use on map page"
+msgstr "Utiliser sur la page de la carte"
+
+#: includes/admin/categories.php:108
+msgid "Use on single car page"
+msgstr "Utilisation sur une seule voiture de la page"
+
+#: includes/admin/categories.php:259
+msgid "Use on Single Listing Header Search"
+msgstr "Utilisation sur une Seule Liste d'en-Tête de la Recherche"
+
+#: includes/admin/categories.php:181
+msgid "Use on single listing page"
+msgstr "Utilisation sur une seule page de la liste des"
+
+#: includes/admin/categories.php:174
+msgid "Use this category in generated Listing Filter title"
+msgstr "L'utilisation de cette catégorie dans générés Liste Filtre titre"
+
+#: includes/admin/startup.php:110
+msgid ""
+"Use WordPress forum to find answers to your questions. This information is "
+"more specific and unique to various versions or aspects of Motors."
+msgstr ""
+"Utiliser WordPress forum pour trouver des réponses à vos questions. Cette "
+"information est plus spécifique et unique pour les différentes versions ou "
+"des aspects de Moteurs."
+
+#: includes/admin/butterbean_metaboxes.php:218
+msgid "Used in STM Boat Videos module"
+msgstr "Utilisé dans STM Bateau Vidéos module"
+
+#: includes/admin/metaboxes.php:36
+msgid "User added"
+msgstr "L'utilisateur ajouté"
+
+#: includes/customizer/registration.php:144
+msgid "User Slot Images Upload Limit:"
+msgstr "Fente D'Utilisateur Des Images Limite De Téléchargement:"
+
+#: includes/customizer/registration.php:139
+msgid "User Slots Limit:"
+msgstr "Emplacements Utilisateur Limite:"
+
+#: includes/customizer/registration.php:128
+msgid "User/Dealer options"
+msgstr "L'utilisateur/Courtier en options"
+
+#: templates/add_car/step_1_additional_fields.php:76
+msgid "Vehicle history"
+msgstr "L'historique du véhicule"
+
+#: templates/add_car/step_1_additional_fields.php:66
+msgid "Vehicle History Report"
+msgstr "Rapport D'Historique De Véhicule"
+
+#: includes/admin/categories.php:292
+msgid "Vehicle listing Settings"
+msgstr "Annonce de véhicule Paramètres"
+
+#: includes/admin/butterbean_metaboxes.php:84 templates/loop/list/video.php:10
+msgid "Video"
+msgstr "Vidéo"
+
+#: templates/add_car/step_4.php:23
+msgid "Video link"
+msgstr "Lien vidéo"
+
+#: includes/admin/metaboxes.php:154
+msgid "Video Options"
+msgstr "Options Vidéo"
+
+#: includes/admin/metaboxes.php:158
+msgid "Video Preview"
+msgstr "L'Aperçu De La Vidéo"
+
+#: templates/single-car/car-gallery.php:64
+#: templates/single-car/car-gallery.php:105
+msgid "Video preview"
+msgstr "L'aperçu de la vidéo"
+
+#: includes/functions.php:585
+msgid "View Item"
+msgstr "Afficher L'Élément"
+
+#: templates/add_car/step_1_additional_fields.php:51
+msgid "VIN"
+msgstr "VIN"
+
+#: templates/single-car/car-data.php:70
+msgid "Vin"
+msgstr "Vin"
+
+#: includes/admin/butterbean_metaboxes.php:531 includes/admin/metaboxes.php:61
+msgid "VIN number"
+msgstr "Le numéro d'identification du"
+
+#: includes/admin/butterbean_metaboxes.php:656
+#: includes/admin/butterbean_metaboxes.php:671
+msgid "Visible for item author in classified layout"
+msgstr "Visible pour l'article de l'auteur dans classée de mise en page"
+
+#: includes/vehicle_functions.php:22
+msgid "was removed from compare"
+msgstr "a été retiré de comparer"
+
+#: includes/admin/startup.php:43
+msgid "Welcome to Motors"
+msgstr "Bienvenue à Moteurs"
+
+#: includes/admin/butterbean_metaboxes.php:1122
+msgid "Work hours"
+msgstr "Les heures de travail"
+
+#: includes/vehicle_functions.php:498
+msgid "Wrong Username or Password"
+msgstr "Mauvais nom d'utilisateur ou Mot de passe"
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr "Année"
+
+#: includes/admin/categories.php:335
+msgid "Yes"
+msgstr "Oui"
+
+#: templates/add-a-car.php:51
+msgid "You are not the owner of this car."
+msgstr "Vous n'êtes pas le propriétaire de cette voiture."
+
+#: includes/vehicle_functions.php:1255
+msgid ""
+"You are trying to add car to another car user, or your session has expired, "
+"please sign in first"
+msgstr ""
+"Vous essayez d'ajouter de voiture pour une voiture d'utilisateur ou votre "
+"session a expiré, veuillez vous inscrire en première"
+
+#: includes/admin/butterbean_metaboxes.php:1073
+msgid "You can find latitude on http://www.latlong.net/"
+msgstr ""
+
+#: includes/admin/butterbean_metaboxes.php:1086
+msgid "You can find longitude on http://www.latlong.net/"
+msgstr ""
+
+#: includes/vehicle_functions.php:963
+msgid "You do not have available posts"
+msgstr "Vous n'avez pas de postes disponibles"
+
+#: templates/add-a-car.php:34
+msgid "You ended the limit of free classified ads."
+msgstr "Vous avez mis fin à la limite de petites annonces gratuites."
+
+#: includes/vehicle_functions.php:25
+msgid "You have already added 3 boats"
+msgstr "Vous avez déjà ajouté des 3 bateaux"
+
+#: includes/vehicle_functions.php:27
+msgid "You have already added 3 cars"
+msgstr "Vous avez déjà ajouté 3 voitures"
+
+#: templates/user/private/settings.php:152
+msgid "Your Social Networks"
+msgstr "Vos Réseaux Sociaux"
+
+#: templates/user/private/settings.php:195
+msgid "Youtube"
+msgstr "Youtube"

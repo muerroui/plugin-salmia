@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Strings>
+    <String>
+        <Key>sign_in</Key>
+        <Value>Sign In</Value>
+    </String>
+    <String>
+        <Key>sign_up</Key>
+        <Value>Sign Up</Value>
+    </String>
+    <String>
+        <Key>login</Key>
+        <Value>LOGIN</Value>
+    </String>
+    <String>
+        <Key>password</Key>
+        <Value>PASSWORD</Value>
+    </String>
+    <String>
+        <Key>vehicle_for_sale</Key>
+        <Value>Vehicle for sale</Value>
+    </String>
+    <String>
+        <Key>recomended</Key>
+        <Value>RECOMENDED</Value>
+    </String>
+    <String>
+        <Key>recently_added</Key>
+        <Value>RECENTLY ADDED</Value>
+    </String>
+    <String>
+        <Key>choose_image</Key>
+        <Value>Choose Image</Value>
+    </String>
+    <String>
+        <Key>choose_photo</Key>
+        <Value>Choose Photo</Value>
+    </String>
+    <String>
+        <Key>open_camera</Key>
+        <Value>Open Camera</Value>
+    </String>
+    <String>
+        <Key>save</Key>
+        <Value>Save</Value>
+    </String>
+    <String>
+        <Key>build_your_ad</Key>
+        <Value>Build Your Ad</Value>
+    </String>
+    <String>
+        <Key>step_1</Key>
+        <Value>Step 1</Value>
+    </String>
+    <String>
+        <Key>step_2</Key>
+        <Value>Step 2</Value>
+    </String>
+    <String>
+        <Key>step_3</Key>
+        <Value>Step 3</Value>
+    </String>
+    <String>
+        <Key>seller_note</Key>
+        <Value>SELLER NOTE</Value>
+    </String>
+    <String>
+        <Key>add_media</Key>
+        <Value>ADD MEDIA</Value>
+    </String>
+    <String>
+        <Key>make</Key>
+        <Value>MAKE</Value>
+    </String>
+    <String>
+        <Key>body</Key>
+        <Value>BODY</Value>
+    </String>
+    <String>
+        <Key>mileage</Key>
+        <Value>MILEAGE</Value>
+    </String>
+    <String>
+        <Key>engine</Key>
+        <Value>ENGINE</Value>
+    </String>
+    <String>
+        <Key>price</Key>
+        <Value>PRICE</Value>
+    </String>
+    <String>
+        <Key>year</Key>
+        <Value>YEAR</Value>
+    </String>
+    <String>
+        <Key>location</Key>
+        <Value>LOCATION</Value>
+    </String>
+    <String>
+        <Key>choose</Key>
+        <Value>Choose</Value>
+    </String>
+    <String>
+        <Key>next_step</Key>
+        <Value>Next Step</Value>
+    </String>
+    <String>
+        <Key>km</Key>
+        <Value>km</Value>
+    </String>
+    <String>
+        <Key>update</Key>
+        <Value>Update</Value>
+    </String>
+    <String>
+        <Key>publish</Key>
+        <Value>Publish</Value>
+    </String>
+    <String>
+        <Key>additional</Key>
+        <Value>Additional</Value>
+    </String>
+    <String>
+        <Key>select_your_car_features</Key>
+        <Value>SELECT YOUR CAR FEATURES</Value>
+    </String>
+    <String>
+        <Key>dealer_profile</Key>
+        <Value>Dealer Profile</Value>
+    </String>
+    <String>
+        <Key>send_message</Key>
+        <Value>Send Message</Value>
+    </String>
+    <String>
+        <Key>sellers_inventory</Key>
+        <Value>SELLERS INVENTORY</Value>
+    </String>
+    <String>
+        <Key>features</Key>
+        <Value>FEATURES</Value>
+    </String>
+    <String>
+        <Key>added</Key>
+        <Value>ADDED</Value>
+    </String>
+    <String>
+        <Key>dealer_comments</Key>
+        <Value>DEALER COMMENTS</Value>
+    </String>
+    <String>
+        <Key>search_radius</Key>
+        <Value>SEARCH RADIUS</Value>
+    </String>
+    <String>
+        <Key>vehicles</Key>
+        <Value>VEHICLES</Value>
+    </String>
+    <String>
+        <Key>choose_model</Key>
+        <Value>Choose Model</Value>
+    </String>
+    <String>
+        <Key>choose_make</Key>
+        <Value>Choose Make</Value>
+    </String>
+    <String>
+        <Key>result</Key>
+        <Value>Result</Value>
+    </String>
+    <String>
+        <Key>no_result</Key>
+        <Value>No Result</Value>
+    </String>
+    <String>
+        <Key>or</Key>
+        <Value>OR</Value>
+    </String>
+    <String>
+        <Key>by_creating</Key>
+        <Value>By Creating or logging into an account you’re agreeing with our</Value>
+    </String>
+    <String>
+        <Key>terms_conditions</Key>
+        <Value>Terms &amp; Conditions</Value>
+    </String>
+    <String>
+        <Key>and</Key>
+        <Value>and</Value>
+    </String>
+    <String>
+        <Key>privacy_statement</Key>
+        <Value>Privacy Statement</Value>
+    </String>
+    <String>
+        <Key>load_more</Key>
+        <Value>Load More</Value>
+    </String>
+    <String>
+        <Key>my_inventory</Key>
+        <Value>MY INVENTORY</Value>
+    </String>
+    <String>
+        <Key>inventory_empty</Key>
+        <Value>Inventory Empty</Value>
+    </String>
+    <String>
+        <Key>my_favourites</Key>
+        <Value>MY FAVOURITES</Value>
+    </String>
+    <String>
+        <Key>favourites_empty</Key>
+        <Value>Favorites Empty</Value>
+    </String>
+    <String>
+        <Key>edit_profile</Key>
+        <Value>Edit Profile</Value>
+    </String>
+    <String>
+        <Key>first_name</Key>
+        <Value>FIRST NAME</Value>
+    </String>
+    <String>
+        <Key>last_name</Key>
+        <Value>LAST NAME</Value>
+    </String>
+    <String>
+        <Key>phone</Key>
+        <Value>PHONE</Value>
+    </String>
+    <String>
+        <Key>email</Key>
+        <Value>EMAIL</Value>
+    </String>
+    <String>
+        <Key>avatar</Key>
+        <Value>AVATAR</Value>
+    </String>
+    <String>
+        <Key>registration</Key>
+        <Value>Registration</Value>
+    </String>
+    <String>
+        <Key>my_account</Key>
+        <Value>My Account</Value>
+    </String>
+    <String>
+        <Key>edit_account</Key>
+        <Value>Edit Account</Value>
+    </String>
+    <String>
+        <Key>log_out</Key>
+        <Value>Log out</Value>
+    </String>
+    <String>
+        <Key>filter</Key>
+        <Value>Filter</Value>
+    </String>
+     <String>
+        <Key>filter2</Key>
+        <Value>Filter2</Value>
+    </String>
+     <String>
+        <Key>color</Key>
+        <Value>Color</Value>
+    </String>
+     <String>
+        <Key>drive</Key>
+        <Value>Drive</Value>
+    </String>
+     <String>
+        <Key>ttransmission</Key>
+        <Value>Transmission</Value>
+    </String>
+     <String>
+        <Key>fuel</Key>
+        <Value>Fuel</Value>
+    </String>
+     <String>
+        <Key>edit_your_ad</Key>
+        <Value>Edit Your Ad</Value>
+    </String>
+     <String>
+        <Key>user_profile</Key>
+        <Value>User Profile</Value>
+    </String>
+     <String>
+        <Key>quit</Key>
+        <Value>Quit</Value>
+    </String>
+     <String>
+        <Key>are_you_sure_to_quit</Key>
+        <Value>Are you sure to quit ?</Value>
+    </String>
+     <String>
+        <Key>delete</Key>
+        <Value>Delete</Value>
+    </String>
+     <String>
+        <Key>from</Key>
+        <Value>From</Value>
+    </String>
+     <String>
+        <Key>to</Key>
+        <Value>To</Value>
+    </String>
+     <String>
+        <Key>similiar_not_found</Key>
+        <Value>Similar Not Found</Value>
+    </String>
+     <String>
+        <Key>condition</Key>
+        <Value>Condition</Value>
+    </String>
+     <String>
+        <Key>interior-color</Key>
+        <Value>Interior Color</Value>
+    </String>
+     <String>
+        <Key>fuel-consumption</Key>
+        <Value>Fuel Consumption</Value>
+    </String>
+     <String>
+        <Key>fuel-economy</Key>
+        <Value>Fuel Economy</Value>
+    </String>
+     <String>
+        <Key>please_turn_on_your_gps_for_take_your_current_location</Key>
+        <Value>Please turn on your location</Value>
+    </String>
+     <String>
+        <Key>search</Key>
+        <Value>Type for search</Value>
+    </String>
+     <String>
+        <Key>something_wrong_with_location</Key>
+        <Value>Something wrong with you location</Value>
+    </String>
+     <String>
+        <Key>series</Key>
+        <Value>Series</Value>
+    </String>
+ <String>
+        <Key>required</Key>
+        <Value>Required</Value>
+    </String>
+ <String>
+        <Key>upload_image</Key>
+        <Value>Press to upload image</Value>
+    </String>
+ <String>
+        <Key>fill_the_form</Key>
+        <Value>Fill the form</Value>
+    </String>
+ <String>
+        <Key>search_result</Key>
+        <Value>Search result</Value>
+    </String>
+ <String>
+        <Key>private_seller</Key>
+        <Value>Private Seller</Value>
+    </String>
+<String>
+        <Key>no_comment</Key>
+        <Value>No comment</Value>
+    </String>
+<String>
+        <Key>cancel</Key>
+        <Value>Cancel</Value>
+    </String>
+<String>
+        <Key>ok</Key>
+        <Value>OK</Value>
+    </String>
+	<String>
+        <Key>car_deleted</Key>
+        <Value>Car deleted</Value>
+    </String>
+<String>
+        <Key>search_currently_not_working</Key>
+        <Value>Search currently not working</Value>
+    </String>
+    <String>
+        <Key>delete_account</Key>
+        <Value>Delete account</Value>
+    </String>
+    
+</Strings>

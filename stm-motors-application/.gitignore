@@ -1,0 +1,11 @@
+*.log
+logs/
+logs\
+\logs
+\logs\
+/logs/
+*.log
+*.sql
+*.sqlite
+*.log
+logs/car_features.log

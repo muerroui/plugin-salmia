@@ -1,0 +1,107 @@
+.stm_visible_lvl_0,
+.stm_visible_lvl_1,
+.stm_visible_lvl_2 {
+    display: none;
+    float: none !important;
+    margin: 15px 0 !important;
+    width: auto !important;
+    padding-right: 12px !important;
+}
+
+.stm-separator {
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+    position: relative;
+    margin-left: -5px;
+    background: #f1f1f1;
+    padding: 5px 0;
+}
+
+.stm_wrapper_image a {
+    display: inline-block;
+    padding: 5px 3px 5px 0;
+}
+
+.stm_wrapper_image a.delete {
+    color: red;
+}
+
+.stm_wrapper_image label .delete,
+.stm_wrapper_image label .replace {
+    display: none;
+}
+
+.stm_wrapper_image label.has-image .delete,
+.stm_wrapper_image label.has-image .replace {
+    display: inline-block;
+}
+
+.stm_wrapper_image label.has-image .add_new {
+    display: none;
+}
+
+.stm_wrapper_image label img {
+    display: block;
+    margin: 15px 0;
+}
+
+.menu-item.menu-item-depth-0 .stm_visible_lvl_0 {
+    display: block;
+}
+
+.menu-item.menu-item-depth-1 .stm_visible_lvl_1 {
+    display: block;
+}
+
+.menu-item.menu-item-depth-2 .stm_visible_lvl_2 {
+    display: block;
+}
+
+.fip-inverted.icons-selector .selector-popup {
+    z-index: 9999999;
+}
+
+.icons-selector i.fa {
+    font-family: 'FontAwesome' !important;
+    font-weight:normal !important;
+    font-style:normal !important;
+}
+
+.stm_wrapper_repeater .mega-repeater-view {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    margin-bottom: 10px;
+}
+
+.stm_wrapper_repeater .mega-repeater-view .edit-menu-repeater-controls {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.stm_wrapper_repeater .mega-repeater-view .edit-menu-repeater-controls .fa {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.stm_wrapper_repeater .mega-repeater-view .edit-menu-repeater-controls .fa-minus-square {
+    display: block;
+}
+
+.stm_wrapper_repeater .mega-repeater-view .edit-menu-repeater-controls.has-value .fa-plus-square {
+    display: block;
+}
+
+.stm_wrapper_repeater .mega-repeater-view .edit-menu-repeater-controls.has-value .fa-minus-square {
+    display: block;
+}

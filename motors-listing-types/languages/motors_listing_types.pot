@@ -1,0 +1,1112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors Listing Types\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-03 12:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: motors_listing_types"
+
+#: includes/functions.php:153
+#, php-format
+msgid "%s: highest first"
+msgstr ""
+
+#: includes/functions.php:154
+#, php-format
+msgid "%s: lowest first"
+msgstr ""
+
+#: includes/functions.php:487
+msgid "-year}. Leave empty if you want to display value listing title.&quot;"
+msgstr ""
+
+#: includes/vc_shortcodes.php:421
+msgid "2 items"
+msgstr ""
+
+#: includes/vc_shortcodes.php:422
+msgid "3 items"
+msgstr ""
+
+#: includes/vc_shortcodes.php:423
+msgid "4 items"
+msgstr ""
+
+#: vc_templates/stm_listing_types_compare.php:14
+#, php-format
+msgid "Add %s to Compare"
+msgstr ""
+
+#: includes/functions.php:52
+msgid "Add Listing Page"
+msgstr ""
+
+#: includes/functions.php:33
+msgid "Add Listing Type"
+msgstr ""
+
+#: vc_templates/stm_listing_types_compare.php:8
+msgid "Add Listings to Compare"
+msgstr ""
+
+#: classes/hooks.class.php:211
+msgid "Add New"
+msgstr ""
+
+#: classes/hooks.class.php:212
+msgid "Add New Item"
+msgstr ""
+
+#: partials/compare-features.php:4
+msgid "Additional features"
+msgstr ""
+
+#: includes/vc_shortcodes.php:251
+msgid "Agreement page"
+msgstr ""
+
+#: classes/hooks.class.php:215
+msgid "All Items"
+msgstr ""
+
+#: includes/vc_shortcodes.php:416
+msgid "All listing types"
+msgstr ""
+
+#: includes/vc_shortcodes.php:177
+msgid "Allowed histories"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows to use several listing types in Motors Theme"
+msgstr ""
+
+#: classes/butterbean.class.php:378
+msgid "Amount of Phone Views"
+msgstr ""
+
+#: classes/butterbean.class.php:367
+msgid "Amount of Views"
+msgstr ""
+
+#: includes/vc_shortcodes.php:442 includes/vc_shortcodes.php:630
+msgid "Autoplay Carousel"
+msgstr ""
+
+#: classes/butterbean.class.php:117
+msgid ""
+"Banner will appear instead of listing image under 'special offers carousel' "
+"module."
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:122
+msgid "Become a Dealer"
+msgstr ""
+
+#: classes/butterbean.class.php:350
+msgid "Brochure (.pdf)"
+msgstr ""
+
+#: includes/vc_shortcodes.php:490
+msgid "Browse by type"
+msgstr ""
+
+#: includes/functions.php:13
+msgid "by StylemixThemes"
+msgstr ""
+
+#: classes/butterbean.class.php:324
+msgid "Certificate 1 Link"
+msgstr ""
+
+#: classes/butterbean.class.php:337
+msgid "Certificate 2 Link"
+msgstr ""
+
+#: classes/butterbean.class.php:316
+msgid "Certificate name"
+msgstr ""
+
+#: vc_templates/stm_listing_types_compare.php:13
+#, php-format
+msgid "Compare %s"
+msgstr ""
+
+#: vc_templates/stm_listing_types_compare.php:7
+msgid "Compare Listings"
+msgstr ""
+
+#: classes/butterbean.class.php:129
+msgid "Create photo gallery for listing item here"
+msgstr ""
+
+#: classes/butterbean.class.php:360
+msgid "Created by"
+msgstr ""
+
+#: includes/vc_shortcodes.php:86 includes/vc_shortcodes.php:124
+#: includes/vc_shortcodes.php:280 includes/vc_shortcodes.php:297
+#: includes/vc_shortcodes.php:408 includes/vc_shortcodes.php:470
+#: includes/vc_shortcodes.php:651 includes/vc_shortcodes.php:686
+#: includes/vc_shortcodes.php:733
+msgid "CSS"
+msgstr ""
+
+#: includes/vc_shortcodes.php:590
+msgid "Css"
+msgstr ""
+
+#: includes/functions.php:63
+msgid "Current Motors Layout"
+msgstr ""
+
+#: includes/functions.php:181
+msgid "Custom Inventory Settings"
+msgstr ""
+
+#: classes/butterbean.class.php:234
+msgid "Custom label"
+msgstr ""
+
+#: includes/functions.php:1497
+msgid "Custom Listing"
+msgstr ""
+
+#: includes/functions.php:917
+msgid "Custom Single Listing Settings"
+msgstr ""
+
+#: includes/functions.php:146
+msgid "Date: newest first"
+msgstr ""
+
+#: includes/functions.php:147
+msgid "Date: oldest first"
+msgstr ""
+
+#: includes/vc_shortcodes.php:118
+msgid "Default listing type add page"
+msgstr ""
+
+#: includes/vc_shortcodes.php:108
+msgid "Default listing type icon"
+msgstr ""
+
+#: includes/vc_shortcodes.php:113
+msgid "Default listing type icon color"
+msgstr ""
+
+#: includes/vc_shortcodes.php:103
+msgid "Default listing type label"
+msgstr ""
+
+#: includes/functions.php:379
+msgid "Default option must be selected above"
+msgstr ""
+
+#: includes/functions.php:374
+msgid "Default Sort Option"
+msgstr ""
+
+#: includes/functions.php:226
+msgid "Default Title"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:211
+msgid "Delete"
+msgstr ""
+
+#: includes/vc_shortcodes.php:88 includes/vc_shortcodes.php:126
+#: includes/vc_shortcodes.php:282 includes/vc_shortcodes.php:299
+#: includes/vc_shortcodes.php:410 includes/vc_shortcodes.php:472
+#: includes/vc_shortcodes.php:592 includes/vc_shortcodes.php:653
+#: includes/vc_shortcodes.php:688 includes/vc_shortcodes.php:735
+msgid "Design options"
+msgstr ""
+
+#: classes/butterbean.class.php:45
+msgid "Details"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:167
+msgid "Disable"
+msgstr ""
+
+#: includes/functions.php:319
+msgid "Display Additional Features on Inventory Filter"
+msgstr ""
+
+#: includes/functions.php:484
+msgid "Display Generated Listing Title as:"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:141
+msgid "Don't sell online"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:153
+#: templates/listing-list-directory-edit-loop.php:207
+msgid "Edit"
+msgstr ""
+
+#: classes/hooks.class.php:213
+msgid "Edit Item"
+msgstr ""
+
+#: partials/compare-description-empty.php:8 partials/compare-description.php:14
+#: partials/compare-listing-empty.php:21
+#: vc_templates/stm_listing_types_compare.php:162
+msgid "Empty"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:160
+msgid "Enable"
+msgstr ""
+
+#: classes/butterbean.class.php:88
+msgid "Enable badge"
+msgstr ""
+
+#: includes/functions.php:519
+msgid "Enable Dealer Info on Listing"
+msgstr ""
+
+#: includes/functions.php:337
+msgid "Enable Favorite Button"
+msgstr ""
+
+#: includes/functions.php:804
+msgid "Enable Paid Featured Listing"
+msgstr ""
+
+#: includes/functions.php:740
+msgid "Enable Pay Per Listing"
+msgstr ""
+
+#: classes/butterbean.class.php:254
+msgid "Enable/Disable 'Car sold'"
+msgstr ""
+
+#: classes/butterbean.class.php:246
+msgid "Enable/Disable 'Request a price' form"
+msgstr ""
+
+#: includes/vc_shortcodes.php:449 includes/vc_shortcodes.php:637
+msgid "Enter \"-1\" for unlimited number of listings"
+msgstr ""
+
+#: includes/vc_shortcodes.php:179
+msgid ""
+"Enter allowed histories, separated by comma without spaces. Example - "
+"(Carfax, AutoCheck, Carfax 1 Owner, etc)"
+msgstr ""
+
+#: classes/butterbean.class.php:92
+msgid "Enter badge text"
+msgstr ""
+
+#: includes/vc_shortcodes.php:213
+msgid ""
+"Enter features, separated by comma without spaces. Example - (Bluetooth,DVD "
+"Player,etc)"
+msgstr ""
+
+#: includes/vc_shortcodes.php:231
+msgid ""
+"Enter phrases, separated by comma without spaces. Example - (Excellent "
+"condition, Always garaged, etc)"
+msgstr ""
+
+#: includes/vc_shortcodes.php:351
+msgid "Enter values for items - title, sub title."
+msgstr ""
+
+#: includes/vc_shortcodes.php:496
+msgid "Enter values for listings - title, limit."
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:184
+#: vc_templates/stm_listing_types_tabs_style_2.php:131
+msgid "Featured"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:184
+msgid "Featured (pending)"
+msgstr ""
+
+#: includes/vc_shortcodes.php:573
+msgid "Featured items"
+msgstr ""
+
+#: includes/functions.php:822
+msgid "Featured Listing Label"
+msgstr ""
+
+#: includes/functions.php:868
+msgid "Featured Listing Period (days)"
+msgstr ""
+
+#: includes/functions.php:845
+msgid "Featured Listing Price"
+msgstr ""
+
+#: includes/vc_shortcodes.php:571
+msgid "Featured tabs label"
+msgstr ""
+
+#: classes/butterbean.class.php:53
+msgid "Features"
+msgstr ""
+
+#: includes/functions.php:395
+msgid "Filter Position"
+msgstr ""
+
+#: includes/vc_shortcodes.php:372
+msgid "Filters"
+msgstr ""
+
+#: includes/functions.php:289
+msgid "Grid Item Title Max Length"
+msgstr ""
+
+#: includes/functions.php:208
+msgid "Hide Price Labels on Listing Archive"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: includes/functions.php:57
+msgid "Icon"
+msgstr ""
+
+#: includes/functions.php:184
+msgid "Ignores global Inventory Settings in Theme Options"
+msgstr ""
+
+#: includes/functions.php:920
+msgid "Ignores global Single Listing settings in Theme Options"
+msgstr ""
+
+#: classes/butterbean.class.php:137
+msgid ""
+"Image for video preview. Please note that video will start playing in a pop-"
+"up window."
+msgstr ""
+
+#: classes/butterbean.class.php:65
+msgid "Images"
+msgstr ""
+
+#: includes/vc_shortcodes.php:562
+msgid "Include featured items"
+msgstr ""
+
+#: includes/vc_shortcodes.php:147
+msgid "Include listing title"
+msgstr ""
+
+#: classes/butterbean.class.php:225
+msgid "Instant savings label"
+msgstr ""
+
+#: classes/perpay.class.php:28
+msgid "Invalid product."
+msgstr ""
+
+#: includes/functions.php:47
+msgid "Inventory Page"
+msgstr ""
+
+#: includes/functions.php:182 includes/functions.php:190
+#: includes/functions.php:210 includes/functions.php:229
+#: includes/functions.php:249 includes/functions.php:273
+#: includes/functions.php:292 includes/functions.php:321
+#: includes/functions.php:339 includes/functions.php:358
+#: includes/functions.php:378 includes/functions.php:399
+#: includes/functions.php:417 includes/functions.php:440
+#: includes/functions.php:463 includes/functions.php:488
+#: includes/functions.php:499 includes/functions.php:521
+#: includes/functions.php:543 includes/functions.php:565
+#: includes/functions.php:587 includes/functions.php:605
+#: includes/functions.php:627 includes/functions.php:649
+#: includes/functions.php:671 includes/functions.php:693
+#: includes/functions.php:713 includes/functions.php:725
+#: includes/functions.php:742 includes/functions.php:761
+#: includes/functions.php:784 includes/functions.php:806
+#: includes/functions.php:825 includes/functions.php:848
+#: includes/functions.php:871
+msgid "Inventory Settings"
+msgstr ""
+
+#: includes/functions.php:245
+msgid "Inventory Sidebar"
+msgstr ""
+
+#: includes/vc_shortcodes.php:186 includes/vc_shortcodes.php:349
+#: includes/vc_shortcodes.php:494
+msgid "Items"
+msgstr ""
+
+#: includes/vc_shortcodes.php:613
+msgid "Items Per Row"
+msgstr ""
+
+#: classes/butterbean.class.php:290
+msgid "Latitude"
+msgstr ""
+
+#: includes/functions.php:188
+msgid "Listing Archive \"Title Box\" Title"
+msgstr ""
+
+#: includes/vc_shortcodes.php:211
+msgid "Listing feature section features"
+msgstr ""
+
+#: includes/vc_shortcodes.php:205
+msgid "Listing feature section title"
+msgstr ""
+
+#: includes/vc_shortcodes.php:192
+msgid "Listing feature title"
+msgstr ""
+
+#: includes/vc_shortcodes.php:196
+msgid "Listing features"
+msgstr ""
+
+#: classes/butterbean.class.php:261
+msgid "Listing ID"
+msgstr ""
+
+#: classes/butterbean.class.php:281
+msgid "Listing location"
+msgstr ""
+
+#: classes/butterbean.class.php:245
+msgid "Listing price form"
+msgstr ""
+
+#: includes/functions.php:691
+msgid "Listing Sidebar Filter Background"
+msgstr ""
+
+#: includes/vc_shortcodes.php:436 includes/vc_shortcodes.php:624
+msgid "Listing to show"
+msgstr ""
+
+#: includes/functions.php:31 includes/vc_shortcodes.php:360
+#: includes/vc_shortcodes.php:381 includes/vc_shortcodes.php:505
+#: includes/vc_shortcodes.php:532
+msgid "Listing Type"
+msgstr ""
+
+#: includes/vc_shortcodes.php:141 includes/vc_shortcodes.php:704
+msgid "Listing type"
+msgstr ""
+
+#: includes/functions.php:12 includes/functions.php:18
+#: includes/functions.php:26
+msgid "Listing Types"
+msgstr ""
+
+#: includes/functions.php:265
+msgid "Listing View Type"
+msgstr ""
+
+#: includes/vc_shortcodes.php:17
+#: vc_templates/stm_listing_types_add_buttons.php:15
+#: vc_templates/stm_listing_types_compare.php:101
+#: vc_templates/stm_listing_types_tabs_style_2.php:108
+msgid "Listings"
+msgstr ""
+
+#: includes/vc_shortcodes.php:447 includes/vc_shortcodes.php:635
+msgid "Listings limit"
+msgstr ""
+
+#: classes/butterbean.class.php:299
+msgid "Longtitude"
+msgstr ""
+
+#: includes/vc_shortcodes.php:157
+msgid "Main taxonomies to fill"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:179
+msgid "Make Featured"
+msgstr ""
+
+#: classes/butterbean.class.php:253
+#: templates/listing-list-directory-edit-loop.php:134
+msgid "Mark as sold"
+msgstr ""
+
+#: includes/vc_shortcodes.php:223
+msgid "Media gallery notification text"
+msgstr ""
+
+#: includes/vc_shortcodes.php:96
+msgid "MLT Add Buttons"
+msgstr ""
+
+#: includes/vc_shortcodes.php:134
+msgid "MLT Add Form"
+msgstr ""
+
+#: includes/vc_shortcodes.php:428
+msgid "MLT Classic Carousel"
+msgstr ""
+
+#: includes/vc_shortcodes.php:696
+msgid "MLT Classic Filter"
+msgstr ""
+
+#: includes/vc_shortcodes.php:79
+msgid "MLT Compare"
+msgstr ""
+
+#: includes/vc_shortcodes.php:600
+msgid "MLT Featured Masonry Carousel"
+msgstr ""
+
+#: includes/vc_shortcodes.php:661
+msgid "MLT Latest blog posts"
+msgstr ""
+
+#: includes/vc_shortcodes.php:307
+msgid "MLT Search Tabs"
+msgstr ""
+
+#: includes/vc_shortcodes.php:290
+msgid "MLT Similar Listings"
+msgstr ""
+
+#: includes/vc_shortcodes.php:480
+msgid "MLT Tabs Style 2"
+msgstr ""
+
+#: includes/vc_shortcodes.php:464 includes/vc_shortcodes.php:548
+#: includes/vc_shortcodes.php:645
+msgid "Most Popular"
+msgstr ""
+
+#: includes/vc_shortcodes.php:463 includes/vc_shortcodes.php:547
+#: includes/vc_shortcodes.php:644
+msgid "Most Recent"
+msgstr ""
+
+#. Name of the plugin
+#: includes/functions.php:17 includes/vc_shortcodes.php:82
+#: includes/vc_shortcodes.php:99 includes/vc_shortcodes.php:137
+#: includes/vc_shortcodes.php:293 includes/vc_shortcodes.php:310
+#: includes/vc_shortcodes.php:431 includes/vc_shortcodes.php:483
+#: includes/vc_shortcodes.php:603 includes/vc_shortcodes.php:664
+#: includes/vc_shortcodes.php:699
+msgid "Motors Listing Types"
+msgstr ""
+
+#: templates/listing-category.php:201
+msgid ""
+"Motors Listing Types plugin requires Motors – Car Dealer, Classifieds & "
+"Listing plugin installed and activated."
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:126
+msgid "My inventory"
+msgstr ""
+
+#: includes/functions.php:38
+msgid "Name"
+msgstr ""
+
+#: classes/hooks.class.php:214
+msgid "New Item"
+msgstr ""
+
+#: includes/vc_shortcodes.php:152 includes/vc_shortcodes.php:269
+msgid "No"
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:155
+msgid "No car to edit."
+msgstr ""
+
+#: templates/listing-list-edit.php:86
+msgid "No Inventory yet"
+msgstr ""
+
+#: classes/hooks.class.php:218
+msgid "No items found"
+msgstr ""
+
+#: classes/hooks.class.php:219
+msgid "No items found in Trash"
+msgstr ""
+
+#: classes/categories.class.php:262 classes/categories.class.php:295
+msgid "No parent"
+msgstr ""
+
+#: partials/compare-listing.php:88 partials/compare-listing.php:92
+msgid "None"
+msgstr ""
+
+#: includes/vc_shortcodes.php:453
+msgid "Number of items per slide"
+msgstr ""
+
+#: includes/vc_shortcodes.php:509 includes/vc_shortcodes.php:539
+msgid "Number of listings to show in tab"
+msgstr ""
+
+#: includes/vc_shortcodes.php:344
+msgid "Number Select affix"
+msgstr ""
+
+#: includes/vc_shortcodes.php:339
+msgid "Number Select prefix"
+msgstr ""
+
+#: includes/vc_shortcodes.php:462
+msgid "Only Featured"
+msgstr ""
+
+#: classes/butterbean.class.php:310 classes/butterbean.class.php:317
+msgid "Only in classified layout"
+msgstr ""
+
+#: classes/butterbean.class.php:49
+msgid "Options"
+msgstr ""
+
+#: includes/vc_shortcodes.php:513 includes/vc_shortcodes.php:544
+#: includes/vc_shortcodes.php:641
+msgid "Order items by"
+msgstr ""
+
+#: includes/functions.php:781
+msgid "Pay Per Listing Period (days)"
+msgstr ""
+
+#: includes/functions.php:758
+msgid "Pay Per Listing Price"
+msgstr ""
+
+#: templates/listing-list-edit.php:45
+msgid "Pay Per Listings"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:204
+msgid "Pending"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:238
+msgid "Placeholder"
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:141
+msgid "Please login."
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:109
+msgid "Posts Available"
+msgstr ""
+
+#: includes/vc_shortcodes.php:716
+msgid "Posts per page on grid view"
+msgstr ""
+
+#: includes/vc_shortcodes.php:710
+msgid "Posts per page on list view"
+msgstr ""
+
+#: classes/butterbean.class.php:174 includes/vc_shortcodes.php:259
+#: includes/vc_shortcodes.php:265 includes/vc_shortcodes.php:276
+#: partials/compare-listing.php:43
+msgid "Price"
+msgstr ""
+
+#: includes/vc_shortcodes.php:274
+msgid "Price description"
+msgstr ""
+
+#: includes/vc_shortcodes.php:257
+msgid "Price title"
+msgstr ""
+
+#: classes/butterbean.class.php:57
+msgid "Prices"
+msgstr ""
+
+#: includes/vc_shortcodes.php:241 includes/vc_shortcodes.php:247
+#: includes/vc_shortcodes.php:253
+msgid "Register/Login User"
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:128
+msgid "Registration"
+msgstr ""
+
+#: classes/butterbean.class.php:308
+msgid "Registration date"
+msgstr ""
+
+#: classes/butterbean.class.php:209
+msgid "Regular price description"
+msgstr ""
+
+#: classes/butterbean.class.php:201
+msgid "Regular price label"
+msgstr ""
+
+#: partials/compare-description.php:65
+msgid "Remove from compare"
+msgstr ""
+
+#: partials/compare-description.php:26 partials/compare-listing.php:35
+msgid "Remove from list"
+msgstr ""
+
+#: classes/butterbean.class.php:184
+msgid "Sale Price"
+msgstr ""
+
+#: includes/vc_shortcodes.php:325
+#: vc_templates/stm_listing_types_search_tabs.php:226
+msgid "Search"
+msgstr ""
+
+#: includes/vc_shortcodes.php:323
+msgid "Search button label"
+msgstr ""
+
+#: classes/hooks.class.php:217
+msgid "Search Items"
+msgstr ""
+
+#: includes/vc_shortcodes.php:70
+msgid "Select"
+msgstr ""
+
+#: includes/vc_shortcodes.php:334
+msgid "Select affix"
+msgstr ""
+
+#: includes/vc_shortcodes.php:329
+msgid "Select prefix"
+msgstr ""
+
+#: includes/vc_shortcodes.php:400
+msgid "Select Taxonomies, which will be in this tab as filter"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:145
+msgid "Sell online"
+msgstr ""
+
+#: includes/vc_shortcodes.php:229
+msgid "Seller template phrases"
+msgstr ""
+
+#: includes/functions.php:461
+msgid "Set Max Search Radius"
+msgstr ""
+
+#: includes/vc_shortcodes.php:581
+msgid "Show \"Show more\" button in tabs"
+msgstr ""
+
+#: vc_templates/stm_listing_types_tabs_style_2.php:218
+#: vc_templates/stm_listing_types_tabs_style_2.php:248
+msgid "Show all"
+msgstr ""
+
+#: includes/functions.php:982
+msgid "Show Calculator"
+msgstr ""
+
+#: includes/vc_shortcodes.php:314
+msgid "Show Category Listings amount"
+msgstr ""
+
+#: includes/functions.php:647 includes/functions.php:1126
+msgid "Show Certified Logo 1"
+msgstr ""
+
+#: includes/functions.php:669 includes/functions.php:1145
+msgid "Show Certified Logo 2"
+msgstr ""
+
+#: includes/functions.php:585 includes/functions.php:1077
+msgid "Show Compare"
+msgstr ""
+
+#: includes/functions.php:1164
+msgid "Show Featured Button"
+msgstr ""
+
+#: includes/functions.php:1332
+msgid "Show History"
+msgstr ""
+
+#: includes/functions.php:415
+msgid "Show Location/Include Location in Filter"
+msgstr ""
+
+#: includes/functions.php:1351
+msgid "Show Number"
+msgstr ""
+
+#: includes/vc_shortcodes.php:166
+msgid "Show number fields as input instead of dropdown"
+msgstr ""
+
+#: includes/functions.php:943
+msgid "Show Offer Price Button"
+msgstr ""
+
+#: includes/functions.php:625 includes/functions.php:1107
+msgid "Show PDF brochure"
+msgstr ""
+
+#: includes/vc_shortcodes.php:263
+msgid "Show Price label"
+msgstr ""
+
+#: includes/functions.php:1020
+msgid "Show Print Button"
+msgstr ""
+
+#: includes/functions.php:1001
+msgid "Show Published Date"
+msgstr ""
+
+#: includes/functions.php:1313
+msgid "Show Registered Date"
+msgstr ""
+
+#: includes/functions.php:603 includes/functions.php:1088
+msgid "Show Share Block"
+msgstr ""
+
+#: includes/functions.php:541 includes/functions.php:1058
+msgid "Show Stock"
+msgstr ""
+
+#: includes/functions.php:563 includes/functions.php:1039
+msgid "Show Test Drive Schedule"
+msgstr ""
+
+#: classes/butterbean.class.php:81
+msgid ""
+"Show this item in 'special offers carousel' module and Featured Listing on "
+"Classified layout"
+msgstr ""
+
+#: includes/functions.php:924
+msgid "Show Trade In Button"
+msgstr ""
+
+#: includes/functions.php:496
+msgid "Show Two First Parameters as a Badge"
+msgstr ""
+
+#: includes/functions.php:1183
+msgid "Show VIN"
+msgstr ""
+
+#: vc_templates/stm_listing_types_similar_listings.php:8
+msgid "Similar Listing"
+msgstr ""
+
+#: includes/functions.php:918 includes/functions.php:926
+#: includes/functions.php:945 includes/functions.php:965
+#: includes/functions.php:984 includes/functions.php:1003
+#: includes/functions.php:1022 includes/functions.php:1041
+#: includes/functions.php:1060 includes/functions.php:1079
+#: includes/functions.php:1090 includes/functions.php:1109
+#: includes/functions.php:1128 includes/functions.php:1147
+#: includes/functions.php:1166 includes/functions.php:1185
+#: includes/functions.php:1316 includes/functions.php:1335
+#: includes/functions.php:1354
+msgid "Single Listing Settings"
+msgstr ""
+
+#: includes/functions.php:42
+msgid "Slug"
+msgstr ""
+
+#: includes/functions.php:721
+msgid "Sold Badge Background Color"
+msgstr ""
+
+#: includes/functions.php:709
+msgid "Sold Listings"
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_buttons.php:81
+msgid "Sorry, no listing types found"
+msgstr ""
+
+#: includes/vc_shortcodes.php:459
+msgid "Sort items"
+msgstr ""
+
+#: includes/functions.php:355
+msgid "Sort Options"
+msgstr ""
+
+#: classes/butterbean.class.php:79
+msgid "Special offer"
+msgstr ""
+
+#: classes/butterbean.class.php:105
+msgid "Special offer text"
+msgstr ""
+
+#: classes/butterbean.class.php:217
+msgid "Special price label"
+msgstr ""
+
+#: classes/butterbean.class.php:61
+msgid "Specials"
+msgstr ""
+
+#: includes/vc_shortcodes.php:219
+msgid "Step 2 features"
+msgstr ""
+
+#: includes/vc_shortcodes.php:225
+msgid "Step 3 gallery"
+msgstr ""
+
+#: includes/vc_shortcodes.php:235
+msgid "Step 5 phrases"
+msgstr ""
+
+#: classes/butterbean.class.php:268
+msgid "Stock number"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: templates/listing-list-edit.php:33
+msgid "Subscription Listings"
+msgstr ""
+
+#: includes/vc_shortcodes.php:368 includes/vc_shortcodes.php:394
+#: includes/vc_shortcodes.php:517 includes/vc_shortcodes.php:555
+msgid "Tab ID"
+msgstr ""
+
+#: includes/vc_shortcodes.php:364 includes/vc_shortcodes.php:501
+msgid "Tab Title"
+msgstr ""
+
+#: includes/vc_shortcodes.php:388 includes/vc_shortcodes.php:526
+msgid "Tab title"
+msgstr ""
+
+#: includes/vc_shortcodes.php:356
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/vc_shortcodes.php:245
+msgid "Text for new users"
+msgstr ""
+
+#: includes/functions.php:43
+msgid ""
+"The URL-friendly version of the name. Accepts only letters, numbers, and "
+"hyphens"
+msgstr ""
+
+#: classes/butterbean.class.php:236
+msgid "This text will appear instead of price"
+msgstr ""
+
+#: includes/vc_shortcodes.php:488 includes/vc_shortcodes.php:608
+msgid "Title"
+msgstr ""
+
+#: includes/vc_shortcodes.php:239
+msgid "Title for new users"
+msgstr ""
+
+#: includes/vc_shortcodes.php:159
+msgid ""
+"Type slug of the category (don't delete anything from autocompleted "
+"suggestions)"
+msgstr ""
+
+#: includes/functions.php:433
+msgid "Unit Measurement"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:130
+msgid "Unmark as sold"
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:116
+msgid "Upgrade Plan"
+msgstr ""
+
+#: classes/butterbean.class.php:160
+msgid "Used in STM Boat Videos module"
+msgstr ""
+
+#: classes/butterbean.class.php:69
+msgid "Video"
+msgstr ""
+
+#: classes/hooks.class.php:216
+msgid "View Item"
+msgstr ""
+
+#: templates/listing-list-directory-edit-loop.php:256
+msgid "View more"
+msgstr ""
+
+#: classes/butterbean.class.php:275
+msgid "VIN number"
+msgstr ""
+
+#: classes/butterbean.class.php:368 classes/butterbean.class.php:379
+msgid "Visible for item author in classified layout"
+msgstr ""
+
+#: includes/vc_shortcodes.php:151 includes/vc_shortcodes.php:172
+#: includes/vc_shortcodes.php:268 includes/vc_shortcodes.php:317
+#: includes/vc_shortcodes.php:565 includes/vc_shortcodes.php:584
+msgid "Yes"
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:151
+msgid "You are not the owner of this car."
+msgstr ""
+
+#: vc_templates/stm_listing_types_add_form.php:110
+msgid ""
+"You ended the limit of free classified ads. Please select one of the "
+"following"
+msgstr ""

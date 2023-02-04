@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li {
+    border-right: none;
+    border-left: 1px solid #dedede;
+    text-align: right;
+    overflow: hidden;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li:last-child,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li:last-child {
+    border-left: none;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li i.fa-arrow-circle-right:before,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li i.fa-arrow-circle-right:before {
+    content: "";
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li ul.mm-list,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li ul.mm-list {
+    max-width: 100%;
+    right: unset;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li ul.mm-list li i,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li ul.mm-list li i {
+    margin-right: 0 !important;
+    margin-left: 10px;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li ul.mm-list li i.fa-arrow-circle-right:before,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li ul.mm-list li i.fa-arrow-circle-right:before {
+    content: "" !important;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li .smt-special-offers .special-wrap .title-price-wrap,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li .smt-special-offers .special-wrap .title-price-wrap {
+    margin-left: 0;
+    margin-right: 20px;
+    text-align: right;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li .smt-special-offers .special-wrap .title-price-wrap .prices .sale_price,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li .smt-special-offers .special-wrap .title-price-wrap .prices .sale_price {
+    margin-left: 0;
+    margin-right: 9px;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post {
+    overflow: hidden;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .menu-title, html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post > a,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .menu-title,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post > a {
+    border-right: 3px solid #ffffff;
+    border-left: none;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .menu-title:after, html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post > a:after,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .menu-title:after,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post > a:after {
+    content: "";
+    right: unset;
+    left: 10px;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post.active .menu-title, html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post.active > a,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post.active .menu-title,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post.active > a {
+    border-right-color: #1bc744;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content {
+    left: 0;
+    right: unset;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li {
+    float: right;
+    margin-right: 0;
+    margin-left: 30px !important;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li:last-child,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li:last-child {
+    margin-left: 0;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li a,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li a {
+    padding: 10px 0 13px 20px;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li a:before,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .nav-tabs > li a:before {
+    right: 0;
+    left: unset;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle:last-child,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li.stm_menu_use_post .stm_mm_post_content .stm-mm-top-makes-wrap .tab-content .stm-mm-vehicles-wrap .stm-mm-vehicle:last-child {
+    margin-left: 0;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li .sub-menu li,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li .sub-menu li {
+    text-align: right;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li .sub-menu li a i,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li .sub-menu li a i {
+    margin-right: 0 !important;
+    margin-left: 10px;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li .stm-mm-top-vehicles .stm-mm-vehicles-list ul.top-vehicles li a,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li .stm-mm-top-vehicles .stm-mm-vehicles-list ul.top-vehicles li a {
+    padding: 9px 13px 9px 0 !important;
+}
+
+html[dir=rtl] body ul li.stm_megamenu > ul.sub-menu > li .stm-mm-top-vehicles .stm-mm-vehicles-list ul.top-vehicles li a:before,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu > ul.sub-menu > li .stm-mm-top-vehicles .stm-mm-vehicles-list ul.top-vehicles li a:before {
+    right: 0;
+    left: unset;
+}
+
+html[dir=rtl] body ul li.stm_megamenu.stm_menu_child_use_post > .sub-menu:before,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu.stm_menu_child_use_post > .sub-menu:before {
+    right: 18.5%;
+    left: unset;
+}
+
+html[dir=rtl] body ul li.stm_megamenu.stm_menu_child_use_post > .sub-menu > li .vc_row .vc_col-sm-4:first-child:before,
+html[dir=rtl] body #wrapper #header ul li.stm_megamenu.stm_menu_child_use_post > .sub-menu > li .vc_row .vc_col-sm-4:first-child:before {
+    right: unset;
+    left: 0;
+}

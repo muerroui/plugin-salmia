@@ -1,0 +1,372 @@
+.toplevel_page_ma_settings #wpbody-content .wrap form {
+  position: relative;
+}
+.toplevel_page_ma_settings #wpbody-content .wrap form input[type=submit] {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: #1bc744;
+  border: none;
+  box-shadow: none;
+  padding: 5px 14px;
+  height: 40px;
+  text-shadow: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+.toplevel_page_ma_settings .form-group {
+  margin-bottom: 0;
+}
+
+.nav-tabs {
+  background: #232628;
+  border: 1px solid #232628;
+}
+.nav-tabs li {
+  border: 0;
+}
+.nav-tabs li a {
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none;
+  padding: 15px 30px;
+  color: #ffffff;
+  outline: none !important;
+}
+.nav-tabs li a:hover {
+  border: 0;
+}
+
+#v-pills-tab a {
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none;
+}
+#v-pills-tab a.active {
+  background: #232628;
+}
+
+#v-pills-main-page label, #v-pills-global label {
+  display: block;
+  font-size: 15px;
+  line-height: 20px;
+}
+#v-pills-main-page input[type=text], #v-pills-global input[type=text] {
+  font-size: 14px;
+  max-width: 350px;
+}
+#v-pills-main-page > form > .row, #v-pills-global > form > .row {
+  margin-bottom: 20px;
+}
+#v-pills-main-page .col-md-4, #v-pills-global .col-md-4 {
+  margin-bottom: 20px;
+}
+
+#v-pills-add-a-car > .add_a_car_steps_wrap > div {
+  margin-bottom: 20px;
+}
+
+#v-pills-general .row {
+  margin-bottom: 20px;
+}
+#v-pills-general .ms-container {
+  margin-left: 15px;
+}
+
+#v-pills-global input {
+  width: 100%;
+}
+#v-pills-global .image-preview-wrapper {
+  margin-bottom: 10px;
+}
+#v-pills-global .image-preview-wrapper img {
+  object-fit: cover;
+}
+#v-pills-global #upload_image_button {
+  width: auto;
+}
+#v-pills-global .row {
+  margin-bottom: 20px;
+}
+#v-pills-global .app_type_wrap {
+  margin-bottom: 0;
+}
+#v-pills-global .app_type_wrap label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#v-pills-global .app_type_wrap label input[type=radio] {
+  width: auto;
+  margin-left: 5px;
+  margin-top: 0;
+}
+#v-pills-global .wp-picker-input-wrap label {
+  display: inline-block !important;
+}
+#v-pills-global .wp-picker-input-wrap input[type=button] {
+  width: auto !important;
+}
+#v-pills-global .main-color-wrap {
+  margin-bottom: 10px;
+}
+
+#v-pills-add_a_car .add_a_car_steps_wrap > div {
+  margin-bottom: 30px;
+}
+
+.tabs-wrapper > .tab-content > .tab-pane {
+  padding-top: 20px;
+}
+.tabs-wrapper > .tab-content .tab-pane {
+  box-shadow: none;
+}
+
+.nav-pills {
+  background: #f2f2f2;
+}
+.nav-pills a {
+  border-radius: 0 !important;
+  color: #333333;
+}
+
+#v-pills-grid h6 {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14px;
+  margin: 10px 0 30px;
+}
+#v-pills-grid form > .row {
+  margin-bottom: 30px;
+}
+#v-pills-grid .grid-types {
+  position: relative;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+#v-pills-grid .grid-types:after {
+  content: "";
+  display: block;
+  width: 97%;
+  border-bottom: 1px solid #1bc744;
+  position: absolute;
+  bottom: 0;
+  margin: 0 15px;
+}
+#v-pills-grid .grid-types .radio-wrap {
+  justify-content: center;
+}
+#v-pills-grid .grid-types .radio-wrap.grid-checked img {
+  border-color: #2d60f3;
+}
+#v-pills-grid .grid-types .radio-wrap:hover img {
+  border-color: #2d60f3;
+}
+#v-pills-grid .grid-types .radio-wrap img {
+  border: 10px solid transparent;
+  border-radius: 5px;
+  transition: all 0.2s ease;
+}
+#v-pills-grid .grid-types input[type=radio] {
+  display: none;
+}
+#v-pills-grid .radio-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+#v-pills-grid .radio-wrap img {
+  max-width: 250px;
+}
+#v-pills-grid .preview-wrap {
+  display: block;
+  overflow: hidden;
+  max-width: 470px;
+  background: #ebeae9;
+  margin: 0 auto;
+}
+#v-pills-grid .preview-wrap .select2-container {
+  margin-bottom: 0;
+}
+#v-pills-grid .preview-wrap .select2-container .select2-selection--multiple {
+  max-height: 38px;
+}
+#v-pills-grid .preview-wrap table {
+  border-collapse: collapse;
+  background: rgba(255, 255, 255, 0.5);
+  margin-top: -95px;
+  z-index: 10;
+  position: relative;
+}
+#v-pills-grid .preview-wrap td {
+  vertical-align: top;
+  padding-right: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+  vertical-align: middle;
+}
+#v-pills-grid .preview-wrap td:first-child {
+  background: #1bc744;
+  vertical-align: middle;
+}
+#v-pills-grid .preview-wrap td:last-child {
+  padding-right: 5px;
+}
+#v-pills-grid .preview-wrap .img {
+  display: block;
+  width: 100%;
+  position: relative;
+  min-height: 213px;
+}
+#v-pills-grid .preview-wrap .img img {
+  display: block;
+  width: 100%;
+  max-height: 200px;
+  position: relative;
+  object-fit: cover;
+}
+#v-pills-grid .preview-wrap .price {
+  white-space: nowrap;
+  color: #ffffff;
+  padding: 0 10px;
+}
+#v-pills-grid .preview-wrap .select-wrap {
+  display: block;
+  width: 100%;
+  min-width: 175px;
+  padding: 1px;
+}
+#v-pills-grid .preview-wrap .select-wrap select {
+  width: 100%;
+}
+#v-pills-grid .preview-wrap .select-wrap .select2-container--default {
+  width: 100% !important;
+}
+#v-pills-grid .preview-wrap .photo_count {
+  display: block;
+}
+
+.select2-container--default {
+  margin-bottom: 20px;
+}
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+  border-color: #ddd;
+}
+.select2-container--default .select2-selection--multiple {
+  border-color: #ddd;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+  background-color: #f1f1f1;
+  border: 1px solid #e4e4e4;
+}
+.select2-container--default .select2-results__option[aria-selected=true] {
+  background: #f1f1f1;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background: #5897fb;
+}
+
+#v-pills-list .preview-wrap {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+#v-pills-list .preview-wrap .img {
+  width: 100%;
+  max-width: 240px;
+  margin-right: 20px;
+}
+#v-pills-list .preview-wrap .img img {
+  display: block;
+  width: 100%;
+}
+#v-pills-list .preview-wrap table {
+  width: 100%;
+  table-layout: fixed;
+}
+#v-pills-list .preview-wrap table tr td {
+  vertical-align: top;
+  padding-right: 20px;
+}
+#v-pills-list .preview-wrap table tr td .select2 {
+  width: 100% !important;
+}
+
+#v-pills-inv-details .preview-wrap {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+#v-pills-inv-details .preview-wrap table {
+  width: 50%;
+  table-layout: fixed;
+}
+#v-pills-inv-details .preview-wrap table tr td {
+  vertical-align: top;
+  padding-right: 20px;
+}
+#v-pills-inv-details .preview-wrap table tr td .select2 {
+  width: 100% !important;
+}
+
+.stm-translations-page-wrap table tr:nth-child(odd) {
+  background: #f7f7f7;
+}
+.stm-translations-page-wrap table tr td {
+  padding: 5px;
+  font-size: 14px;
+}
+.stm-translations-page-wrap table tr td:first-child {
+  max-width: 300px;
+  color: #1f507a;
+}
+.stm-translations-page-wrap table tr td input[type=text] {
+  min-width: 500px;
+  height: 26px;
+  line-height: 26px;
+  font-size: 14px;
+}
+
+.firebase-admob-keys .banner-ids-wrap, .firebase-admob-keys .interstitial-ids-wrap {
+  display: none;
+}
+.firebase-admob-keys .banner-ids-wrap.visible, .firebase-admob-keys .interstitial-ids-wrap.visible {
+  display: block;
+}
+.firebase-admob-keys table tr:nth-child(odd) {
+  background: #f7f7f7;
+}
+.firebase-admob-keys table tr th {
+  min-width: 220px;
+  color: #1f507a;
+  padding: 5px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.firebase-admob-keys table tr td {
+  min-width: 350px;
+  padding: 5px;
+  vertical-align: middle;
+  font-size: 13px;
+}
+.firebase-admob-keys table tr td input[type=text] {
+  width: 100%;
+}
+
+.preview-wrap.grid_four {
+  cursor: pointer;
+}
+
+.preview-wrap.grid_four.grid-checked img {
+  border-color: #2d60f3;
+  border: #2d60f3 10px solid;
+  border-radius: 5px;
+  transition: all 0.2s ease;
+  z-index: 10;
+}
+
+/*# sourceMappingURL=styles.css.map */
